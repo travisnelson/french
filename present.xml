@@ -1,0 +1,45 @@
+﻿<wordlist>
+	<conjugation type="present">
+		<word inf="être" je="suis" tu="es" il="est" nous="sommes" vous="êtes" ils="sont" />
+		<word inf="avoir" je="ai" tu="as" il="a" nous="avons" vous="avez" ils="ont" />
+		<word inf="aimer" je="aime" tu="aimes" il="aime" nous="aimons" vous="aimez" ils="aiment" />
+		<word inf="se méfier" je="me méfier" tu="te méfies" il="se méfie" nous="nous méfions" vous="vous méfiez" ils="se méfient" />
+		<word inf="placer" je="place" tu="places" il="place" nous="plaçons" vous="placez" ils="placent" />
+		<word inf="manger" je="mange" tu="manges" il="mange" nous="mangeons" vous="mangez" ils="mangent" />
+		<word inf="jeter" je="jette" tu="jettes" il="jette" nous="jetons" vous="jetez" ils="jettent" />
+		<word inf="créer" je="crée" tu="crées" il="crée" nous="créons" vous="créez" ils="créent" />
+		<word inf="payer" je="paie" tu="paies" il="paie" nous="payons" vous="payez" ils="paient" />
+		<word inf="envoyer" je="envoie" tu="envoies" il="envoie" nous="envoyons" vous="envoyez" ils="envoient" />
+		<word inf="finir" je="finis" tu="finis" il="finit" nous="finissons" vous="finissez" ils="finissent" />
+		<word inf="aller" je="vais" tu="vas" il="vas" nous="allons" vous="allez" ils="vont" />
+		<word inf="tenir" je="tiens" tu="tiens" il="tient" nous="tenons" vous="tenez" ils="tiennent" />
+		<word inf="venir" je="viens" tu="viens" il="vient" nous="venons" vous="venez" ils="viennent" />
+		<word inf="sentir" je="sens" tu="sens" il="sent" nous="sentons" vous="sentez" ils="sentent" />
+		<word inf="couvrir" je="couvre" tu="couvres" il="couvre" nous="couvrons" vous="couvrez" ils="couvrent" />
+		<word inf="dormir" je="dors" tu="dors" il="dort" nous="dormons" vous="dormez" ils="dorment" />
+		<word inf="courir" je="cours" tu="cours" il="court" nous="courons" vous="courez" ils="courent" />
+		<word inf="mourir" je="meurs" tu="meurs" il="meurt" nous="mourons" vous="mourez" ils="meurent" />
+		<word inf="servir" je="sers" tu="sers" il="sert" nous="servons" vous="servez" ils="servent" />
+		<word inf="recevoir" je="reçois" tu="reçois" il="reçoit" nous="recevons" vous="recevez" ils="reçoivent" />
+		<word inf="voir" je="vois" tu="vois" il="voit" nous="voyons" vous="voyez" ils="voient" />
+		<word inf="savoir" je="sais" tu="sais" il="sait" nous="savons" vous="savez" ils="savent" />
+		<word inf="devoir" je="dois" tu="dois" il="doit" nous="devons" vous="devez" ils="doivent" />
+		<word inf="pouvoir" je="peux" tu="peux" il="peut" nous="pouvons" vous="pouvez" ils="pouvent" />
+		<word inf="vouloir" je="veux" tu="veux" il="veut" nous="voulons" vous="voulez" ils="veulent" />
+		<word inf="asseoir" je="assieds" tu="assieds" il="assied" nous="asseyons" vous="asseyez" ils="asseyent" />
+		<word inf="rendre" je="rends" tu="rends" il="rend" nous="rendons" vous="rendez" ils="rendent" />
+		<word inf="prendre" je="prends" tu="prends" il="prend" nous="prenons" vous="prenez" ils="prennent" />
+		<word inf="mettre" je="mets" tu="mets" il="met" nous="mettons" vous="mettez" ils="mettent" />
+		<word inf="peindre" je="peins" tu="peins" il="peint" nous="peignons" vous="peignez" ils="peignent" />
+		<word inf="faire" je="fais" tu="fais" il="fait" nous="faisons" vous="faites" ils="font" />
+		<word inf="connaître" je="connais" tu="connais" il="connaît" nous="connaissons" vous="connaissez" ils="connaissent" />
+		<word inf="naître" je="nais" tu="nais" il="naît" nous="naissons" vous="naissez" ils="naissent" />
+		<word inf="croire" je="crois" tu="crois" il="croit" nous="croyons" vous="croyez" ils="croyent" />
+		<word inf="boire" je="bois" tu="bois" il="boit" nous="buvons" vous="buvez" ils="boivent" />
+		<word inf="suivre" je="suis" tu="suis" il="suit" nous="suivons" vous="suivez" ils="suivent" />
+		<word inf="vivre" je="vis" tu="vis" il="vit" nous="vivons" vous="vivez" ils="vivent" />
+		<word inf="lire" je="lis" tu="lis" il="lit" nous="lisons" vous="lisez" ils="lisent" />
+		<word inf="dire" je="dis" tu="dis" il="dit" nous="disons" vous="dites" ils="disent" />
+		<word inf="écrire" je="écris" tu="écris" il="écrit" nous="écrivons" vous="écrivez" ils="écrivent" />
+	</conjugation>
+</wordlist>

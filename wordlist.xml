@@ -1,0 +1,4004 @@
+﻿<wordlist>
+	<conjugation type="present">
+		<word inf="être">
+			<form type="je">suis</form>
+			<form type="tu">es</form>
+			<form type="il">est</form>
+			<form type="nous">sommes</form>
+			<form type="vous">êtes</form>
+			<form type="ils">sont</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">ai</form>
+			<form type="tu">as</form>
+			<form type="il">a</form>
+			<form type="nous">avons</form>
+			<form type="vous">avez</form>
+			<form type="ils">ont</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">aime</form>
+			<form type="tu">aimes</form>
+			<form type="il">aime</form>
+			<form type="nous">aimons</form>
+			<form type="vous">aimez</form>
+			<form type="ils">aiment</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me méfier</form>
+			<form type="tu">te méfies</form>
+			<form type="il">se méfie</form>
+			<form type="nous">nous méfions</form>
+			<form type="vous">vous méfiez</form>
+			<form type="ils">se méfient</form>
+		</word>
+		<word inf="placer">
+			<form type="je">place</form>
+			<form type="tu">places</form>
+			<form type="il">place</form>
+			<form type="nous">plaçons</form>
+			<form type="vous">placez</form>
+			<form type="ils">placent</form>
+		</word>
+		<word inf="manger">
+			<form type="je">mange</form>
+			<form type="tu">manges</form>
+			<form type="il">mange</form>
+			<form type="nous">mangeons</form>
+			<form type="vous">mangez</form>
+			<form type="ils">mangent</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">jette</form>
+			<form type="tu">jettes</form>
+			<form type="il">jette</form>
+			<form type="nous">jetons</form>
+			<form type="vous">jetez</form>
+			<form type="ils">jettent</form>
+		</word>
+		<word inf="créer">
+			<form type="je">crée</form>
+			<form type="tu">crées</form>
+			<form type="il">crée</form>
+			<form type="nous">créons</form>
+			<form type="vous">créez</form>
+			<form type="ils">créent</form>
+		</word>
+		<word inf="payer">
+			<form type="je">paie</form>
+			<form type="tu">paies</form>
+			<form type="il">paie</form>
+			<form type="nous">payons</form>
+			<form type="vous">payez</form>
+			<form type="ils">paient</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">envoie</form>
+			<form type="tu">envoies</form>
+			<form type="il">envoie</form>
+			<form type="nous">envoyons</form>
+			<form type="vous">envoyez</form>
+			<form type="ils">envoient</form>
+		</word>
+		<word inf="finir">
+			<form type="je">finis</form>
+			<form type="tu">finis</form>
+			<form type="il">finit</form>
+			<form type="nous">finissons</form>
+			<form type="vous">finissez</form>
+			<form type="ils">finissent</form>
+		</word>
+		<word inf="aller">
+			<form type="je">vais</form>
+			<form type="tu">vas</form>
+			<form type="il">va</form>
+			<form type="nous">allons</form>
+			<form type="vous">allez</form>
+			<form type="ils">vont</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">tiens</form>
+			<form type="tu">tiens</form>
+			<form type="il">tient</form>
+			<form type="nous">tenons</form>
+			<form type="vous">tenez</form>
+			<form type="ils">tiennent</form>
+		</word>
+		<word inf="venir">
+			<form type="je">viens</form>
+			<form type="tu">viens</form>
+			<form type="il">vient</form>
+			<form type="nous">venons</form>
+			<form type="vous">venez</form>
+			<form type="ils">viennent</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">sens</form>
+			<form type="tu">sens</form>
+			<form type="il">sent</form>
+			<form type="nous">sentons</form>
+			<form type="vous">sentez</form>
+			<form type="ils">sentent</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">couvre</form>
+			<form type="tu">couvres</form>
+			<form type="il">couvre</form>
+			<form type="nous">couvrons</form>
+			<form type="vous">couvrez</form>
+			<form type="ils">couvrent</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">dors</form>
+			<form type="tu">dors</form>
+			<form type="il">dort</form>
+			<form type="nous">dormons</form>
+			<form type="vous">dormez</form>
+			<form type="ils">dorment</form>
+		</word>
+		<word inf="courir">
+			<form type="je">cours</form>
+			<form type="tu">cours</form>
+			<form type="il">court</form>
+			<form type="nous">courons</form>
+			<form type="vous">courez</form>
+			<form type="ils">courent</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">meurs</form>
+			<form type="tu">meurs</form>
+			<form type="il">meurt</form>
+			<form type="nous">mourons</form>
+			<form type="vous">mourez</form>
+			<form type="ils">meurent</form>
+		</word>
+		<word inf="servir">
+			<form type="je">sers</form>
+			<form type="tu">sers</form>
+			<form type="il">sert</form>
+			<form type="nous">servons</form>
+			<form type="vous">servez</form>
+			<form type="ils">servent</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">reçois</form>
+			<form type="tu">reçois</form>
+			<form type="il">reçoit</form>
+			<form type="nous">recevons</form>
+			<form type="vous">recevez</form>
+			<form type="ils">reçoivent</form>
+		</word>
+		<word inf="voir">
+			<form type="je">vois</form>
+			<form type="tu">vois</form>
+			<form type="il">voit</form>
+			<form type="nous">voyons</form>
+			<form type="vous">voyez</form>
+			<form type="ils">voient</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">sais</form>
+			<form type="tu">sais</form>
+			<form type="il">sait</form>
+			<form type="nous">savons</form>
+			<form type="vous">savez</form>
+			<form type="ils">savent</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">dois</form>
+			<form type="tu">dois</form>
+			<form type="il">doit</form>
+			<form type="nous">devons</form>
+			<form type="vous">devez</form>
+			<form type="ils">doivent</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">peux</form>
+			<form type="tu">peux</form>
+			<form type="il">peut</form>
+			<form type="nous">pouvons</form>
+			<form type="vous">pouvez</form>
+			<form type="ils">pouvent</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">veux</form>
+			<form type="tu">veux</form>
+			<form type="il">veut</form>
+			<form type="nous">voulons</form>
+			<form type="vous">voulez</form>
+			<form type="ils">veulent</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">assieds</form>
+			<form type="tu">assieds</form>
+			<form type="il">assied</form>
+			<form type="nous">asseyons</form>
+			<form type="vous">asseyez</form>
+			<form type="ils">asseyent</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">rends</form>
+			<form type="tu">rends</form>
+			<form type="il">rend</form>
+			<form type="nous">rendons</form>
+			<form type="vous">rendez</form>
+			<form type="ils">rendent</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">prends</form>
+			<form type="tu">prends</form>
+			<form type="il">prend</form>
+			<form type="nous">prenons</form>
+			<form type="vous">prenez</form>
+			<form type="ils">prennent</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">mets</form>
+			<form type="tu">mets</form>
+			<form type="il">met</form>
+			<form type="nous">mettons</form>
+			<form type="vous">mettez</form>
+			<form type="ils">mettent</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">peins</form>
+			<form type="tu">peins</form>
+			<form type="il">peint</form>
+			<form type="nous">peignons</form>
+			<form type="vous">peignez</form>
+			<form type="ils">peignent</form>
+		</word>
+		<word inf="faire">
+			<form type="je">fais</form>
+			<form type="tu">fais</form>
+			<form type="il">fait</form>
+			<form type="nous">faisons</form>
+			<form type="vous">faites</form>
+			<form type="ils">font</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">connais</form>
+			<form type="tu">connais</form>
+			<form type="il">connaît</form>
+			<form type="nous">connaissons</form>
+			<form type="vous">connaissez</form>
+			<form type="ils">connaissent</form>
+		</word>
+		<word inf="naître">
+			<form type="je">nais</form>
+			<form type="tu">nais</form>
+			<form type="il">naît</form>
+			<form type="nous">naissons</form>
+			<form type="vous">naissez</form>
+			<form type="ils">naissent</form>
+		</word>
+		<word inf="croire">
+			<form type="je">crois</form>
+			<form type="tu">crois</form>
+			<form type="il">croit</form>
+			<form type="nous">croyons</form>
+			<form type="vous">croyez</form>
+			<form type="ils">croyent</form>
+		</word>
+		<word inf="boire">
+			<form type="je">bois</form>
+			<form type="tu">bois</form>
+			<form type="il">boit</form>
+			<form type="nous">buvons</form>
+			<form type="vous">buvez</form>
+			<form type="ils">boivent</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">suis</form>
+			<form type="tu">suis</form>
+			<form type="il">suit</form>
+			<form type="nous">suivons</form>
+			<form type="vous">suivez</form>
+			<form type="ils">suivent</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">vis</form>
+			<form type="tu">vis</form>
+			<form type="il">vit</form>
+			<form type="nous">vivons</form>
+			<form type="vous">vivez</form>
+			<form type="ils">vivent</form>
+		</word>
+		<word inf="lire">
+			<form type="je">lis</form>
+			<form type="tu">lis</form>
+			<form type="il">lit</form>
+			<form type="nous">lisons</form>
+			<form type="vous">lisez</form>
+			<form type="ils">lisent</form>
+		</word>
+		<word inf="dire">
+			<form type="je">dis</form>
+			<form type="tu">dis</form>
+			<form type="il">dit</form>
+			<form type="nous">disons</form>
+			<form type="vous">dites</form>
+			<form type="ils">disent</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">écris</form>
+			<form type="tu">écris</form>
+			<form type="il">écrit</form>
+			<form type="nous">écrivons</form>
+			<form type="vous">écrivez</form>
+			<form type="ils">écrivent</form>
+		</word>
+	</conjugation>
+	<conjugation type="imparfait">
+		<word inf="être">
+			<form type="je">étais</form>
+			<form type="tu">étais</form>
+			<form type="il">était</form>
+			<form type="nous">étions</form>
+			<form type="vous">étiez</form>
+			<form type="ils">étaient</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">avais</form>
+			<form type="tu">avais</form>
+			<form type="il">avait</form>
+			<form type="nous">avions</form>
+			<form type="vous">aviez</form>
+			<form type="ils">avaient</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">aimais</form>
+			<form type="tu">aimais</form>
+			<form type="il">aimait</form>
+			<form type="nous">aimions</form>
+			<form type="vous">aimiez</form>
+			<form type="ils">aimaient</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me méfiais</form>
+			<form type="tu">te méfiais</form>
+			<form type="il">se méfiait</form>
+			<form type="nous">nous méfiions</form>
+			<form type="vous">vous méfiiez</form>
+			<form type="ils">se méfiaient</form>
+		</word>
+		<word inf="placer">
+			<form type="je">plaçais</form>
+			<form type="tu">plaçais</form>
+			<form type="il">plaçait</form>
+			<form type="nous">placions</form>
+			<form type="vous">placiez</form>
+			<form type="ils">plaçaient</form>
+		</word>
+		<word inf="manger">
+			<form type="je">mangeais</form>
+			<form type="tu">mangeais</form>
+			<form type="il">mangeait</form>
+			<form type="nous">mangions</form>
+			<form type="vous">mangiez</form>
+			<form type="ils">mangeaient</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">jetais</form>
+			<form type="tu">jetais</form>
+			<form type="il">jetait</form>
+			<form type="nous">jetions</form>
+			<form type="vous">jetiez</form>
+			<form type="ils">jetaient</form>
+		</word>
+		<word inf="créer">
+			<form type="je">créais</form>
+			<form type="tu">créait</form>
+			<form type="il">créait</form>
+			<form type="nous">créions</form>
+			<form type="vous">créiez</form>
+			<form type="ils">créaient</form>
+		</word>
+		<word inf="payer">
+			<form type="je">payais</form>
+			<form type="tu">payais</form>
+			<form type="il">payait</form>
+			<form type="nous">payions</form>
+			<form type="vous">payiez</form>
+			<form type="ils">payaient</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">envoyais</form>
+			<form type="tu">envoyais</form>
+			<form type="il">envoyait</form>
+			<form type="nous">envoyions</form>
+			<form type="vous">envoyiez</form>
+			<form type="ils">envoyaient</form>
+		</word>
+		<word inf="finir">
+			<form type="je">finissais</form>
+			<form type="tu">finissais</form>
+			<form type="il">finissait</form>
+			<form type="nous">finissions</form>
+			<form type="vous">finissiez</form>
+			<form type="ils">finissaient</form>
+		</word>
+		<word inf="aller">
+			<form type="je">allais</form>
+			<form type="tu">allais</form>
+			<form type="il">allait</form>
+			<form type="nous">allions</form>
+			<form type="vous">alliez</form>
+			<form type="ils">allaient</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">tenais</form>
+			<form type="tu">tenais</form>
+			<form type="il">tenait</form>
+			<form type="nous">tenions</form>
+			<form type="vous">teniez</form>
+			<form type="ils">tenaient</form>
+		</word>
+		<word inf="venir">
+			<form type="je">venais</form>
+			<form type="tu">venais</form>
+			<form type="il">venait</form>
+			<form type="nous">venions</form>
+			<form type="vous">veniez</form>
+			<form type="ils">vienaient</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">sentais</form>
+			<form type="tu">sentais</form>
+			<form type="il">sentait</form>
+			<form type="nous">sentions</form>
+			<form type="vous">sentiez</form>
+			<form type="ils">sentaient</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">couvrais</form>
+			<form type="tu">couvrais</form>
+			<form type="il">couvrait</form>
+			<form type="nous">couvrions</form>
+			<form type="vous">couvriez</form>
+			<form type="ils">couvraient</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">dormais</form>
+			<form type="tu">dormais</form>
+			<form type="il">dormait</form>
+			<form type="nous">dormions</form>
+			<form type="vous">dormiez</form>
+			<form type="ils">dormaient</form>
+		</word>
+		<word inf="courir">
+			<form type="je">courais</form>
+			<form type="tu">courais</form>
+			<form type="il">courait</form>
+			<form type="nous">courions</form>
+			<form type="vous">couriez</form>
+			<form type="ils">couraient</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">mourais</form>
+			<form type="tu">mourais</form>
+			<form type="il">mourait</form>
+			<form type="nous">mourions</form>
+			<form type="vous">mouriez</form>
+			<form type="ils">mouraient</form>
+		</word>
+		<word inf="servir">
+			<form type="je">servais</form>
+			<form type="tu">servais</form>
+			<form type="il">servait</form>
+			<form type="nous">servions</form>
+			<form type="vous">serviez</form>
+			<form type="ils">servaient</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">recevais</form>
+			<form type="tu">recevais</form>
+			<form type="il">recevait</form>
+			<form type="nous">recevions</form>
+			<form type="vous">receviez</form>
+			<form type="ils">recevaient</form>
+		</word>
+		<word inf="voir">
+			<form type="je">voyais</form>
+			<form type="tu">voyais</form>
+			<form type="il">voyait</form>
+			<form type="nous">voyions</form>
+			<form type="vous">voyiez</form>
+			<form type="ils">voyaient</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">savais</form>
+			<form type="tu">savais</form>
+			<form type="il">savait</form>
+			<form type="nous">savions</form>
+			<form type="vous">saviez</form>
+			<form type="ils">savaient</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">devais</form>
+			<form type="tu">devais</form>
+			<form type="il">devait</form>
+			<form type="nous">devions</form>
+			<form type="vous">deviez</form>
+			<form type="ils">devaient</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">pouvais</form>
+			<form type="tu">pouvais</form>
+			<form type="il">pouvait</form>
+			<form type="nous">pouvions</form>
+			<form type="vous">pouviez</form>
+			<form type="ils">pouvaient</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">voulais</form>
+			<form type="tu">voulais</form>
+			<form type="il">voulait</form>
+			<form type="nous">voulions</form>
+			<form type="vous">vouliez</form>
+			<form type="ils">voulaient</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">asseyais</form>
+			<form type="tu">asseyais</form>
+			<form type="il">asseyait</form>
+			<form type="nous">asseyions</form>
+			<form type="vous">asseyiez</form>
+			<form type="ils">asseyaient</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">rendais</form>
+			<form type="tu">rendais</form>
+			<form type="il">rendait</form>
+			<form type="nous">rendions</form>
+			<form type="vous">rendiez</form>
+			<form type="ils">rendaient</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">prenais</form>
+			<form type="tu">prenais</form>
+			<form type="il">prenait</form>
+			<form type="nous">prenions</form>
+			<form type="vous">preniez</form>
+			<form type="ils">prenaient</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">mettais</form>
+			<form type="tu">mettais</form>
+			<form type="il">mettait</form>
+			<form type="nous">mettions</form>
+			<form type="vous">mettiez</form>
+			<form type="ils">mettaient</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">peignais</form>
+			<form type="tu">peignais</form>
+			<form type="il">peignait</form>
+			<form type="nous">peignions</form>
+			<form type="vous">peigniez</form>
+			<form type="ils">peignaient</form>
+		</word>
+		<word inf="faire">
+			<form type="je">faisais</form>
+			<form type="tu">faisais</form>
+			<form type="il">faisait</form>
+			<form type="nous">faisions</form>
+			<form type="vous">faisiez</form>
+			<form type="ils">faisaient</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">connaissais</form>
+			<form type="tu">connaissais</form>
+			<form type="il">connaissait</form>
+			<form type="nous">connaissions</form>
+			<form type="vous">connaissiez</form>
+			<form type="ils">connaissaient</form>
+		</word>
+		<word inf="naître">
+			<form type="je">naissais</form>
+			<form type="tu">naissais</form>
+			<form type="il">naissait</form>
+			<form type="nous">naissions</form>
+			<form type="vous">naissiez</form>
+			<form type="ils">naissaient</form>
+		</word>
+		<word inf="croire">
+			<form type="je">croyais</form>
+			<form type="tu">croyais</form>
+			<form type="il">croyait</form>
+			<form type="nous">croyions</form>
+			<form type="vous">croyiez</form>
+			<form type="ils">croyaient</form>
+		</word>
+		<word inf="boire">
+			<form type="je">buvais</form>
+			<form type="tu">buvais</form>
+			<form type="il">buvait</form>
+			<form type="nous">buvions</form>
+			<form type="vous">buviez</form>
+			<form type="ils">boivaient</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">suivais</form>
+			<form type="tu">suivais</form>
+			<form type="il">suivait</form>
+			<form type="nous">suivions</form>
+			<form type="vous">suiviez</form>
+			<form type="ils">suivaient</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">vivais</form>
+			<form type="tu">vivais</form>
+			<form type="il">vivait</form>
+			<form type="nous">vivions</form>
+			<form type="vous">viviez</form>
+			<form type="ils">vivaient</form>
+		</word>
+		<word inf="lire">
+			<form type="je">lisais</form>
+			<form type="tu">lisais</form>
+			<form type="il">lisait</form>
+			<form type="nous">lisions</form>
+			<form type="vous">lisiez</form>
+			<form type="ils">lisaient</form>
+		</word>
+		<word inf="dire">
+			<form type="je">disais</form>
+			<form type="tu">disais</form>
+			<form type="il">disait</form>
+			<form type="nous">disions</form>
+			<form type="vous">disiez</form>
+			<form type="ils">disaient</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">écrivais</form>
+			<form type="tu">écrivais</form>
+			<form type="il">écrivait</form>
+			<form type="nous">écrivions</form>
+			<form type="vous">écriviez</form>
+			<form type="ils">écrivaient</form>
+		</word>
+	</conjugation>
+	<conjugation type="conditionnel">	
+		<word inf="être">
+			<form type="je">serais</form>
+			<form type="tu">serais</form>
+			<form type="il">serait</form>
+			<form type="nous">serions</form>
+			<form type="vous">seriez</form>
+			<form type="ils">seraient</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">aurais</form>
+			<form type="tu">aurais</form>
+			<form type="il">aurait</form>
+			<form type="nous">aurions</form>
+			<form type="vous">auriez</form>
+			<form type="ils">auraient</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">aimerais</form>
+			<form type="tu">aimerais</form>
+			<form type="il">aimerait</form>
+			<form type="nous">aimerions</form>
+			<form type="vous">aimeriez</form>
+			<form type="ils">aimeraient</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me méfierais</form>
+			<form type="tu">te méfierais</form>
+			<form type="il">se méfierait</form>
+			<form type="nous">nous méfierions</form>
+			<form type="vous">vous méfieriez</form>
+			<form type="ils">se méfieraient</form>
+		</word>
+		<word inf="placer">
+			<form type="je">placerais</form>
+			<form type="tu">placerais</form>
+			<form type="il">placerait</form>
+			<form type="nous">placerions</form>
+			<form type="vous">placeriez</form>
+			<form type="ils">placeraient</form>
+		</word>
+		<word inf="manger">
+			<form type="je">mangerais</form>
+			<form type="tu">mangerais</form>
+			<form type="il">mangerait</form>
+			<form type="nous">mangerions</form>
+			<form type="vous">mangeriez</form>
+			<form type="ils">mangeraient</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">jetterais</form>
+			<form type="tu">jetterais</form>
+			<form type="il">jetterait</form>
+			<form type="nous">jetterions</form>
+			<form type="vous">jetteriez</form>
+			<form type="ils">jetteraient</form>
+		</word>
+		<word inf="créer">
+			<form type="je">créerais</form>
+			<form type="tu">créerais</form>
+			<form type="il">créerait</form>
+			<form type="nous">créerions</form>
+			<form type="vous">créeriez</form>
+			<form type="ils">créeraient</form>
+		</word>
+		<word inf="payer">
+			<form type="je">paierais</form>
+			<form type="tu">paierais</form>
+			<form type="il">paierait</form>
+			<form type="nous">paierions</form>
+			<form type="vous">paieriez</form>
+			<form type="ils">paieraient</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">enverrais</form>
+			<form type="tu">enverrais</form>
+			<form type="il">enverrait</form>
+			<form type="nous">enverrions</form>
+			<form type="vous">enverriez</form>
+			<form type="ils">enverraient</form>
+		</word>
+		<word inf="finir">
+			<form type="je">finirais</form>
+			<form type="tu">finirais</form>
+			<form type="il">finirait</form>
+			<form type="nous">finirions</form>
+			<form type="vous">finiriez</form>
+			<form type="ils">finiraient</form>
+		</word>
+		<word inf="aller">
+			<form type="je">irais</form>
+			<form type="tu">irais</form>
+			<form type="il">irait</form>
+			<form type="nous">irions</form>
+			<form type="vous">iriez</form>
+			<form type="ils">iraient</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">tiendrais</form>
+			<form type="tu">tiendrais</form>
+			<form type="il">tiendrait</form>
+			<form type="nous">tiendrions</form>
+			<form type="vous">tiendriez</form>
+			<form type="ils">tiendraient</form>
+		</word>
+		<word inf="venir">
+			<form type="je">viendrais</form>
+			<form type="tu">viendrais</form>
+			<form type="il">viendrait</form>
+			<form type="nous">viendrions</form>
+			<form type="vous">viendriez</form>
+			<form type="ils">viendraient</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">sentirais</form>
+			<form type="tu">sentirais</form>
+			<form type="il">sentirait</form>
+			<form type="nous">sentirions</form>
+			<form type="vous">sentiriez</form>
+			<form type="ils">sentiraient</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">couvrirais</form>
+			<form type="tu">couvrirais</form>
+			<form type="il">couvrirait</form>
+			<form type="nous">couvririons</form>
+			<form type="vous">couvririez</form>
+			<form type="ils">couvriraient</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">dormirais</form>
+			<form type="tu">dormirais</form>
+			<form type="il">dormirait</form>
+			<form type="nous">dormirions</form>
+			<form type="vous">dormiriez</form>
+			<form type="ils">dormiraient</form>
+		</word>
+		<word inf="courir">
+			<form type="je">courrais</form>
+			<form type="tu">courrais</form>
+			<form type="il">courrait</form>
+			<form type="nous">courrions</form>
+			<form type="vous">courriez</form>
+			<form type="ils">courraient</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">mourrais</form>
+			<form type="tu">mourrais</form>
+			<form type="il">mourrait</form>
+			<form type="nous">mourrions</form>
+			<form type="vous">mourriez</form>
+			<form type="ils">mourraient</form>
+		</word>
+		<word inf="servir">
+			<form type="je">servirais</form>
+			<form type="tu">servirais</form>
+			<form type="il">servirait</form>
+			<form type="nous">servirions</form>
+			<form type="vous">serviriez</form>
+			<form type="ils">serviraient</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">recevrais</form>
+			<form type="tu">recevrais</form>
+			<form type="il">recevrait</form>
+			<form type="nous">recevrions</form>
+			<form type="vous">recevriez</form>
+			<form type="ils">recevraient</form>
+		</word>
+		<word inf="voir">
+			<form type="je">verrais</form>
+			<form type="tu">verrais</form>
+			<form type="il">verrait</form>
+			<form type="nous">verrions</form>
+			<form type="vous">verriez</form>
+			<form type="ils">verraient</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">saurais</form>
+			<form type="tu">saurais</form>
+			<form type="il">saurait</form>
+			<form type="nous">saurions</form>
+			<form type="vous">sauriez</form>
+			<form type="ils">sauraient</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">devrais</form>
+			<form type="tu">devrais</form>
+			<form type="il">devrait</form>
+			<form type="nous">devrions</form>
+			<form type="vous">devriez</form>
+			<form type="ils">devraient</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">pourrais</form>
+			<form type="tu">pourrais</form>
+			<form type="il">pourrait</form>
+			<form type="nous">pourrions</form>
+			<form type="vous">pourriez</form>
+			<form type="ils">pourraient</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">voudrais</form>
+			<form type="tu">voudrais</form>
+			<form type="il">voudrait</form>
+			<form type="nous">voudrions</form>
+			<form type="vous">voudriez</form>
+			<form type="ils">voudraient</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">assiérais</form>
+			<form type="tu">assiérais</form>
+			<form type="il">assiérait</form>
+			<form type="nous">assiérions</form>
+			<form type="vous">assiériez</form>
+			<form type="ils">assiéraient</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">rendrais</form>
+			<form type="tu">rendrais</form>
+			<form type="il">rendrait</form>
+			<form type="nous">rendrions</form>
+			<form type="vous">rendriez</form>
+			<form type="ils">rendraient</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">prendrais</form>
+			<form type="tu">prendrais</form>
+			<form type="il">prendrait</form>
+			<form type="nous">prendrions</form>
+			<form type="vous">prendriez</form>
+			<form type="ils">prendraient</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">mettrais</form>
+			<form type="tu">mettrais</form>
+			<form type="il">mettrait</form>
+			<form type="nous">mettrions</form>
+			<form type="vous">mettriez</form>
+			<form type="ils">mettraient</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">peindrais</form>
+			<form type="tu">peindrais</form>
+			<form type="il">peindrait</form>
+			<form type="nous">peindrions</form>
+			<form type="vous">peindriez</form>
+			<form type="ils">peindraient</form>
+		</word>
+		<word inf="faire">
+			<form type="je">ferais</form>
+			<form type="tu">ferais</form>
+			<form type="il">ferait</form>
+			<form type="nous">ferions</form>
+			<form type="vous">feriez</form>
+			<form type="ils">feraient</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">connaîtrais</form>
+			<form type="tu">connaîtrais</form>
+			<form type="il">connaîtrait</form>
+			<form type="nous">connaîtrions</form>
+			<form type="vous">connaîtriez</form>
+			<form type="ils">connaîtraient</form>
+		</word>
+		<word inf="naître">
+			<form type="je">naîtrais</form>
+			<form type="tu">naîtrais</form>
+			<form type="il">naîtrait</form>
+			<form type="nous">naîtrions</form>
+			<form type="vous">naîtriez</form>
+			<form type="ils">naîtraient</form>
+		</word>
+		<word inf="croire">
+			<form type="je">croirais</form>
+			<form type="tu">croirais</form>
+			<form type="il">croirait</form>
+			<form type="nous">croirions</form>
+			<form type="vous">croiriez</form>
+			<form type="ils">croiraient</form>
+		</word>
+		<word inf="boire">
+			<form type="je">boirais</form>
+			<form type="tu">boirais</form>
+			<form type="il">boirait</form>
+			<form type="nous">boirions</form>
+			<form type="vous">boiriez</form>
+			<form type="ils">boiraient</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">suivrais</form>
+			<form type="tu">suivrais</form>
+			<form type="il">suivrait</form>
+			<form type="nous">suivrions</form>
+			<form type="vous">suivriez</form>
+			<form type="ils">suivraient</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">vivrais</form>
+			<form type="tu">vivrais</form>
+			<form type="il">vivrait</form>
+			<form type="nous">vivrions</form>
+			<form type="vous">vivriez</form>
+			<form type="ils">vivraient</form>
+		</word>
+		<word inf="lire">
+			<form type="je">lirais</form>
+			<form type="tu">lirais</form>
+			<form type="il">lirait</form>
+			<form type="nous">lirions</form>
+			<form type="vous">liriez</form>
+			<form type="ils">liraient</form>
+		</word>
+		<word inf="dire">
+			<form type="je">dirais</form>
+			<form type="tu">dirais</form>
+			<form type="il">dirait</form>
+			<form type="nous">dirions</form>
+			<form type="vous">diriez</form>
+			<form type="ils">diraient</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">écrirais</form>
+			<form type="tu">écrirais</form>
+			<form type="il">écrirait</form>
+			<form type="nous">écririons</form>
+			<form type="vous">écririez</form>
+			<form type="ils">écriraient</form>
+		</word>
+	</conjugation>
+	<conjugation type="futur">
+		<word inf="être">
+			<form type="je">serai</form>
+			<form type="tu">seras</form>
+			<form type="il">sera</form>
+			<form type="nous">serons</form>
+			<form type="vous">serez</form>
+			<form type="ils">seront</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">aurai</form>
+			<form type="tu">auras</form>
+			<form type="il">aura</form>
+			<form type="nous">aurons</form>
+			<form type="vous">aurez</form>
+			<form type="ils">auront</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">aimerai</form>
+			<form type="tu">aimeras</form>
+			<form type="il">aimera</form>
+			<form type="nous">aimerons</form>
+			<form type="vous">aimerez</form>
+			<form type="ils">aimeront</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me méfierai</form>
+			<form type="tu">te méfieras</form>
+			<form type="il">se méfiera</form>
+			<form type="nous">nous méfierons</form>
+			<form type="vous">vous méfierez</form>
+			<form type="ils">se méfieront</form>
+		</word>
+		<word inf="placer">
+			<form type="je">placerai</form>
+			<form type="tu">placeras</form>
+			<form type="il">placera</form>
+			<form type="nous">placerons</form>
+			<form type="vous">placerez</form>
+			<form type="ils">placeront</form>
+		</word>
+		<word inf="manger">
+			<form type="je">mangerai</form>
+			<form type="tu">mangeras</form>
+			<form type="il">mangera</form>
+			<form type="nous">mangerons</form>
+			<form type="vous">mangerez</form>
+			<form type="ils">mangeront</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">jetterai</form>
+			<form type="tu">jetteras</form>
+			<form type="il">jettera</form>
+			<form type="nous">jetterons</form>
+			<form type="vous">jetterez</form>
+			<form type="ils">jetteront</form>
+		</word>
+		<word inf="créer">
+			<form type="je">créerai</form>
+			<form type="tu">créeras</form>
+			<form type="il">créera</form>
+			<form type="nous">créerons</form>
+			<form type="vous">créerez</form>
+			<form type="ils">créeront</form>
+		</word>
+		<word inf="payer">
+			<form type="je">paierai</form>
+			<form type="tu">paieras</form>
+			<form type="il">paiera</form>
+			<form type="nous">paierons</form>
+			<form type="vous">paierez</form>
+			<form type="ils">paieront</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">enverrai</form>
+			<form type="tu">enverras</form>
+			<form type="il">enverra</form>
+			<form type="nous">enverrons</form>
+			<form type="vous">enverrez</form>
+			<form type="ils">enverront</form>
+		</word>
+		<word inf="finir">
+			<form type="je">finirai</form>
+			<form type="tu">finiras</form>
+			<form type="il">finira</form>
+			<form type="nous">finirons</form>
+			<form type="vous">finirez</form>
+			<form type="ils">finiront</form>
+		</word>
+		<word inf="aller">
+			<form type="je">irai</form>
+			<form type="tu">iras</form>
+			<form type="il">ira</form>
+			<form type="nous">irons</form>
+			<form type="vous">irez</form>
+			<form type="ils">iront</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">tiendrai</form>
+			<form type="tu">tiendras</form>
+			<form type="il">tiendra</form>
+			<form type="nous">tiendrons</form>
+			<form type="vous">tiendrez</form>
+			<form type="ils">tiendront</form>
+		</word>
+		<word inf="venir">
+			<form type="je">viendrai</form>
+			<form type="tu">viendras</form>
+			<form type="il">viendra</form>
+			<form type="nous">viendrons</form>
+			<form type="vous">viendrez</form>
+			<form type="ils">viendront</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">sentirai</form>
+			<form type="tu">sentiras</form>
+			<form type="il">sentira</form>
+			<form type="nous">sentirons</form>
+			<form type="vous">sentirez</form>
+			<form type="ils">sentiront</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">couvrirai</form>
+			<form type="tu">couvriras</form>
+			<form type="il">couvrira</form>
+			<form type="nous">couvrirons</form>
+			<form type="vous">couvrirez</form>
+			<form type="ils">couvriront</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">dormirai</form>
+			<form type="tu">dormiras</form>
+			<form type="il">dormira</form>
+			<form type="nous">dormirons</form>
+			<form type="vous">dormirez</form>
+			<form type="ils">dormiront</form>
+		</word>
+		<word inf="courir">
+			<form type="je">courrai</form>
+			<form type="tu">courras</form>
+			<form type="il">courra</form>
+			<form type="nous">courrons</form>
+			<form type="vous">courrez</form>
+			<form type="ils">courront</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">mourrai</form>
+			<form type="tu">mourras</form>
+			<form type="il">mourra</form>
+			<form type="nous">mourrons</form>
+			<form type="vous">mourrez</form>
+			<form type="ils">mourront</form>
+		</word>
+		<word inf="servir">
+			<form type="je">servirai</form>
+			<form type="tu">serviras</form>
+			<form type="il">servira</form>
+			<form type="nous">servirons</form>
+			<form type="vous">servirez</form>
+			<form type="ils">serviront</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">recevrai</form>
+			<form type="tu">recevras</form>
+			<form type="il">recevra</form>
+			<form type="nous">recevrons</form>
+			<form type="vous">recevrez</form>
+			<form type="ils">recevront</form>
+		</word>
+		<word inf="voir">
+			<form type="je">verrai</form>
+			<form type="tu">verras</form>
+			<form type="il">verra</form>
+			<form type="nous">verrons</form>
+			<form type="vous">verrez</form>
+			<form type="ils">verront</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">saurai</form>
+			<form type="tu">sauras</form>
+			<form type="il">saura</form>
+			<form type="nous">saurons</form>
+			<form type="vous">saurez</form>
+			<form type="ils">sauront</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">devrai</form>
+			<form type="tu">devras</form>
+			<form type="il">devra</form>
+			<form type="nous">devrons</form>
+			<form type="vous">devrez</form>
+			<form type="ils">devront</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">pourrai</form>
+			<form type="tu">pourras</form>
+			<form type="il">pourra</form>
+			<form type="nous">pourrons</form>
+			<form type="vous">pourrez</form>
+			<form type="ils">pourront</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">voudrai</form>
+			<form type="tu">voudras</form>
+			<form type="il">voudra</form>
+			<form type="nous">voudrons</form>
+			<form type="vous">voudrez</form>
+			<form type="ils">voudront</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">assiérai</form>
+			<form type="tu">assiéras</form>
+			<form type="il">assiéra</form>
+			<form type="nous">assiérons</form>
+			<form type="vous">assiérez</form>
+			<form type="ils">assiéront</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">rendrai</form>
+			<form type="tu">rendras</form>
+			<form type="il">rendra</form>
+			<form type="nous">rendrons</form>
+			<form type="vous">rendrez</form>
+			<form type="ils">rendront</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">prendrai</form>
+			<form type="tu">prendras</form>
+			<form type="il">prendra</form>
+			<form type="nous">prendrons</form>
+			<form type="vous">prendrez</form>
+			<form type="ils">prendront</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">mettrai</form>
+			<form type="tu">mettras</form>
+			<form type="il">mettra</form>
+			<form type="nous">mettrons</form>
+			<form type="vous">mettrez</form>
+			<form type="ils">mettront</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">peindrai</form>
+			<form type="tu">peindras</form>
+			<form type="il">peindra</form>
+			<form type="nous">peindrons</form>
+			<form type="vous">peindrez</form>
+			<form type="ils">peindront</form>
+		</word>
+		<word inf="faire">
+			<form type="je">ferai</form>
+			<form type="tu">feras</form>
+			<form type="il">fera</form>
+			<form type="nous">ferons</form>
+			<form type="vous">ferez</form>
+			<form type="ils">feront</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">connaîtrai</form>
+			<form type="tu">connaîtras</form>
+			<form type="il">connaîtra</form>
+			<form type="nous">connaîtrons</form>
+			<form type="vous">connaîtrez</form>
+			<form type="ils">connaîtront</form>
+		</word>
+		<word inf="naître">
+			<form type="je">naîtrai</form>
+			<form type="tu">naîtras</form>
+			<form type="il">naîtra</form>
+			<form type="nous">naîtrons</form>
+			<form type="vous">naîtrez</form>
+			<form type="ils">naîtront</form>
+		</word>
+		<word inf="croire">
+			<form type="je">croirai</form>
+			<form type="tu">croiras</form>
+			<form type="il">croira</form>
+			<form type="nous">croirons</form>
+			<form type="vous">croirez</form>
+			<form type="ils">croiront</form>
+		</word>
+		<word inf="boire">
+			<form type="je">boirai</form>
+			<form type="tu">boiras</form>
+			<form type="il">boira</form>
+			<form type="nous">boirons</form>
+			<form type="vous">boirez</form>
+			<form type="ils">boiront</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">suivrai</form>
+			<form type="tu">suivras</form>
+			<form type="il">suivra</form>
+			<form type="nous">suivrons</form>
+			<form type="vous">suivrez</form>
+			<form type="ils">suivront</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">vivrai</form>
+			<form type="tu">vivras</form>
+			<form type="il">vivra</form>
+			<form type="nous">vivrons</form>
+			<form type="vous">vivrez</form>
+			<form type="ils">vivront</form>
+		</word>
+		<word inf="lire">
+			<form type="je">lirai</form>
+			<form type="tu">liras</form>
+			<form type="il">lira</form>
+			<form type="nous">lirons</form>
+			<form type="vous">lirez</form>
+			<form type="ils">liront</form>
+		</word>
+		<word inf="dire">
+			<form type="je">dirai</form>
+			<form type="tu">diras</form>
+			<form type="il">dira</form>
+			<form type="nous">dirons</form>
+			<form type="vous">direz</form>
+			<form type="ils">diront</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">écrirai</form>
+			<form type="tu">écriras</form>
+			<form type="il">écrira</form>
+			<form type="nous">écrirons</form>
+			<form type="vous">écrirez</form>
+			<form type="ils">écriront</form>
+		</word>
+	</conjugation>	
+	<conjugation type="conditionnel_passe">
+		<word inf="être">
+			<form type="je">aurais été</form>
+			<form type="tu">aurais été</form>
+			<form type="il">aurait été</form>
+			<form type="nous">aurions été</form>
+			<form type="vous">auriez été</form>
+			<form type="ils">auraient été</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">aurais eu</form>
+			<form type="tu">aurais eu</form>
+			<form type="il">aurait eu</form>
+			<form type="nous">aurions eu</form>
+			<form type="vous">auriez eu</form>
+			<form type="ils">auraient eu</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">aurais aimé</form>
+			<form type="tu">aurais aimé</form>
+			<form type="il">aurait aimé</form>
+			<form type="nous">aurions aimé</form>
+			<form type="vous">auriez aimé</form>
+			<form type="ils">auraient aimé</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me serais méfié</form>
+			<form type="tu">te serais méfié</form>
+			<form type="il">se serait méfié</form>
+			<form type="nous">nous serions méfiés</form>
+			<form type="vous">vous seriez méfiés</form>
+			<form type="ils">se seraient méfiés</form>
+		</word>
+		<word inf="placer">
+			<form type="je">aurais placé</form>
+			<form type="tu">aurais placé</form>
+			<form type="il">aurait placé</form>
+			<form type="nous">aurions placé</form>
+			<form type="vous">auriez placé</form>
+			<form type="ils">auraient placé</form>
+		</word>
+		<word inf="manger">
+			<form type="je">aurais mangé</form>
+			<form type="tu">aurais mangé</form>
+			<form type="il">aurait mangé</form>
+			<form type="nous">aurions mangé</form>
+			<form type="vous">auriez mangé</form>
+			<form type="ils">auraient mangé</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">aurais jeté</form>
+			<form type="tu">aurais jeté</form>
+			<form type="il">aurait jeté</form>
+			<form type="nous">aurions jeté</form>
+			<form type="vous">auriez jeté</form>
+			<form type="ils">auraient jeté</form>
+		</word>
+		<word inf="créer">
+			<form type="je">aurais créé</form>
+			<form type="tu">aurais créé</form>
+			<form type="il">aurait créé</form>
+			<form type="nous">aurions créé</form>
+			<form type="vous">auriez créé</form>
+			<form type="ils">auraient créé</form>
+		</word>
+		<word inf="payer">
+			<form type="je">aurais payé</form>
+			<form type="tu">aurais payé</form>
+			<form type="il">aurait payé</form>
+			<form type="nous">aurions payé</form>
+			<form type="vous">auriez payé</form>
+			<form type="ils">auraient payé</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">aurais envoyé</form>
+			<form type="tu">aurais envoyé</form>
+			<form type="il">aurait envoyé</form>
+			<form type="nous">aurions envoyé</form>
+			<form type="vous">auriez envoyé</form>
+			<form type="ils">auraient envoyé</form>
+		</word>
+		<word inf="finir">
+			<form type="je">aurais fini</form>
+			<form type="tu">aurais fini</form>
+			<form type="il">aurait fini</form>
+			<form type="nous">aurions fini</form>
+			<form type="vous">auriez fini</form>
+			<form type="ils">auraient fini</form>
+		</word>
+		<word inf="aller">
+			<form type="je">serais allé</form>
+			<form type="tu">serais allé</form>
+			<form type="il">serait allé</form>
+			<form type="nous">serions allés</form>
+			<form type="vous">seriez allés</form>
+			<form type="ils">seraient allés</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">aurais tenu</form>
+			<form type="tu">aurais tenu</form>
+			<form type="il">aurait tenu</form>
+			<form type="nous">aurions tenu</form>
+			<form type="vous">auriez tenu</form>
+			<form type="ils">auraient tenu</form>
+		</word>
+		<word inf="venir">
+			<form type="je">serais venu</form>
+			<form type="tu">serais venu</form>
+			<form type="il">serait venu</form>
+			<form type="nous">serions venu</form>
+			<form type="vous">seriez venu</form>
+			<form type="ils">seraient venu</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">aurais senti</form>
+			<form type="tu">aurais senti</form>
+			<form type="il">aurait senti</form>
+			<form type="nous">aurions senti</form>
+			<form type="vous">auriez senti</form>
+			<form type="ils">auraient senti</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">aurais couvert</form>
+			<form type="tu">aurais couvert</form>
+			<form type="il">aurait couvert</form>
+			<form type="nous">aurions couvert</form>
+			<form type="vous">auriez couvert</form>
+			<form type="ils">auraient couvert</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">aurais dormi</form>
+			<form type="tu">aurais dormi</form>
+			<form type="il">aurait dormi</form>
+			<form type="nous">aurions dormi</form>
+			<form type="vous">auriez dormi</form>
+			<form type="ils">auraient dormi</form>
+		</word>
+		<word inf="courir">
+			<form type="je">aurais couru</form>
+			<form type="tu">aurais couru</form>
+			<form type="il">aurait couru</form>
+			<form type="nous">aurions couru</form>
+			<form type="vous">auriez couru</form>
+			<form type="ils">auraient couru</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">serais mort</form>
+			<form type="tu">serais mort</form>
+			<form type="il">serait mort</form>
+			<form type="nous">serions morts</form>
+			<form type="vous">seriez morts</form>
+			<form type="ils">seraient morts</form>
+		</word>
+		<word inf="servir">
+			<form type="je">aurais servi</form>
+			<form type="tu">aurais servi</form>
+			<form type="il">aurait servi</form>
+			<form type="nous">aurions servi</form>
+			<form type="vous">auriez servi</form>
+			<form type="ils">auraient servi</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">aurais reçu</form>
+			<form type="tu">aurais reçu</form>
+			<form type="il">aurait reçu</form>
+			<form type="nous">aurions reçu</form>
+			<form type="vous">auriez reçu</form>
+			<form type="ils">auraient reçu</form>
+		</word>
+		<word inf="voir">
+			<form type="je">aurais vu</form>
+			<form type="tu">aurais vu</form>
+			<form type="il">aurait vu</form>
+			<form type="nous">aurions vu</form>
+			<form type="vous">auriez vu</form>
+			<form type="ils">auraient vu</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">aurais su</form>
+			<form type="tu">aurais su</form>
+			<form type="il">aurait su</form>
+			<form type="nous">aurions su</form>
+			<form type="vous">auriez su</form>
+			<form type="ils">auraient su</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">aurais dû</form>
+			<form type="tu">aurais dû</form>
+			<form type="il">aurait dû</form>
+			<form type="nous">aurions dû</form>
+			<form type="vous">auriez dû</form>
+			<form type="ils">auraient dû</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">aurais pu</form>
+			<form type="tu">aurais pu</form>
+			<form type="il">aurait pu</form>
+			<form type="nous">aurions pu</form>
+			<form type="vous">auriez pu</form>
+			<form type="ils">auraient pu</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">aurais voulu</form>
+			<form type="tu">aurais voulu</form>
+			<form type="il">aurait voulu</form>
+			<form type="nous">aurions voulu</form>
+			<form type="vous">auriez voulu</form>
+			<form type="ils">auraient voulu</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">aurais assis</form>
+			<form type="tu">aurais assis</form>
+			<form type="il">aurait assis</form>
+			<form type="nous">aurions assis</form>
+			<form type="vous">auriez assis</form>
+			<form type="ils">auraient assis</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">aurais rendu</form>
+			<form type="tu">aurais rendu</form>
+			<form type="il">aurait rendu</form>
+			<form type="nous">aurions rendu</form>
+			<form type="vous">auriez rendu</form>
+			<form type="ils">auraient rendu</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">aurais pris</form>
+			<form type="tu">aurais pris</form>
+			<form type="il">aurait pris</form>
+			<form type="nous">aurions pris</form>
+			<form type="vous">auriez pris</form>
+			<form type="ils">auraient pris</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">aurais mis</form>
+			<form type="tu">aurais mis</form>
+			<form type="il">aurait mis</form>
+			<form type="nous">aurions mis</form>
+			<form type="vous">auriez mis</form>
+			<form type="ils">auraient mis</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">aurais peint</form>
+			<form type="tu">aurais peint</form>
+			<form type="il">aurait peint</form>
+			<form type="nous">aurions peint</form>
+			<form type="vous">auriez peint</form>
+			<form type="ils">auraient peint</form>
+		</word>
+		<word inf="faire">
+			<form type="je">aurais fait</form>
+			<form type="tu">aurais fait</form>
+			<form type="il">aurait fait</form>
+			<form type="nous">aurions fait</form>
+			<form type="vous">auriez fait</form>
+			<form type="ils">auraient fait</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">aurais connu</form>
+			<form type="tu">aurais connu</form>
+			<form type="il">aurait connu</form>
+			<form type="nous">aurions connu</form>
+			<form type="vous">auriez connu</form>
+			<form type="ils">auraient connu</form>
+		</word>
+		<word inf="naître">
+			<form type="je">serais né</form>
+			<form type="tu">serais né</form>
+			<form type="il">serait né</form>
+			<form type="nous">serions nés</form>
+			<form type="vous">seriez nés</form>
+			<form type="ils">seraient nés</form>
+		</word>
+		<word inf="croire">
+			<form type="je">aurais cru</form>
+			<form type="tu">aurais cru</form>
+			<form type="il">aurait cru</form>
+			<form type="nous">aurions cru</form>
+			<form type="vous">auriez cru</form>
+			<form type="ils">auraient cru</form>
+		</word>
+		<word inf="boire">
+			<form type="je">aurais bu</form>
+			<form type="tu">aurais bu</form>
+			<form type="il">aurait bu</form>
+			<form type="nous">aurions bu</form>
+			<form type="vous">auriez bu</form>
+			<form type="ils">auraient bu</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">aurais suivi</form>
+			<form type="tu">aurais suivi</form>
+			<form type="il">aurait suivi</form>
+			<form type="nous">aurions suivi</form>
+			<form type="vous">auriez suivi</form>
+			<form type="ils">auraient suivi</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">aurais vécu</form>
+			<form type="tu">aurais vécu</form>
+			<form type="il">aurait vécu</form>
+			<form type="nous">aurions vécu</form>
+			<form type="vous">auriez vécu</form>
+			<form type="ils">auraient vécu</form>
+		</word>
+		<word inf="lire">
+			<form type="je">aurais lu</form>
+			<form type="tu">aurais lu</form>
+			<form type="il">aurait lu</form>
+			<form type="nous">aurions lu</form>
+			<form type="vous">auriez lu</form>
+			<form type="ils">auraient lu</form>
+		</word>
+		<word inf="dire">
+			<form type="je">aurais dit</form>
+			<form type="tu">aurais dit</form>
+			<form type="il">aurait dit</form>
+			<form type="nous">aurions dit</form>
+			<form type="vous">auriez dit</form>
+			<form type="ils">auraient dit</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">aurais écrit</form>
+			<form type="tu">aurais écrit</form>
+			<form type="il">aurait écrit</form>
+			<form type="nous">aurions écrit</form>
+			<form type="vous">auriez écrit</form>
+			<form type="ils">auraient écrit</form>
+		</word>
+	</conjugation>
+	<conjugation type="passe_compose">
+		<word inf="être">
+			<form type="je">ai été</form>
+			<form type="tu">as été</form>
+			<form type="il">a été</form>
+			<form type="nous">avons été</form>
+			<form type="vous">avez été</form>
+			<form type="ils">ont été</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">ai eu</form>
+			<form type="tu">as eu</form>
+			<form type="il">a eu</form>
+			<form type="nous">avons eu</form>
+			<form type="vous">avez eu</form>
+			<form type="ils">ont eu</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">ai aimé</form>
+			<form type="tu">as aimé</form>
+			<form type="il">a aimé</form>
+			<form type="nous">avons aimé</form>
+			<form type="vous">avez aimé</form>
+			<form type="ils">ont aimé</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me suis méfié</form>
+			<form type="tu">t'es méfié</form>
+			<form type="il">s'est méfié</form>
+			<form type="nous">nous sommes méfiés</form>
+			<form type="vous">vous êtes méfiés</form>
+			<form type="ils">se sont méfiés</form>
+		</word>
+		<word inf="placer">
+			<form type="je">ai placé</form>
+			<form type="tu">as placé</form>
+			<form type="il">a placé</form>
+			<form type="nous">avons placé</form>
+			<form type="vous">avez placé</form>
+			<form type="ils">ont placé</form>
+		</word>
+		<word inf="manger">
+			<form type="je">ai mangé</form>
+			<form type="tu">as mangé</form>
+			<form type="il">a mangé</form>
+			<form type="nous">avons mangé</form>
+			<form type="vous">avez mangé</form>
+			<form type="ils">ont mangé</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">ai jeté</form>
+			<form type="tu">as jeté</form>
+			<form type="il">a jeté</form>
+			<form type="nous">avons jeté</form>
+			<form type="vous">avez jeté</form>
+			<form type="ils">ont jeté</form>
+		</word>
+		<word inf="créer">
+			<form type="je">ai créé</form>
+			<form type="tu">as créé</form>
+			<form type="il">a créé</form>
+			<form type="nous">avons créé</form>
+			<form type="vous">avez créé</form>
+			<form type="ils">ont créé</form>
+		</word>
+		<word inf="payer">
+			<form type="je">ai payé</form>
+			<form type="tu">as payé</form>
+			<form type="il">a payé</form>
+			<form type="nous">avons payé</form>
+			<form type="vous">avez payé</form>
+			<form type="ils">ont payé</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">ai envoyé</form>
+			<form type="tu">as envoyé</form>
+			<form type="il">a envoyé</form>
+			<form type="nous">avons envoyé</form>
+			<form type="vous">avez envoyé</form>
+			<form type="ils">ont envoyé</form>
+		</word>
+		<word inf="finir">
+			<form type="je">ai fini</form>
+			<form type="tu">as fini</form>
+			<form type="il">a fini</form>
+			<form type="nous">avons fini</form>
+			<form type="vous">avez fini</form>
+			<form type="ils">ont fini</form>
+		</word>
+		<word inf="aller">
+			<form type="je">suis allé</form>
+			<form type="tu">es allé</form>
+			<form type="il">est allé</form>
+			<form type="nous">sommes allés</form>
+			<form type="vous">êtes allés</form>
+			<form type="ils">sont allés</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">ai tenu</form>
+			<form type="tu">as tenu</form>
+			<form type="il">a tenu</form>
+			<form type="nous">avons tenu</form>
+			<form type="vous">avez tenu</form>
+			<form type="ils">ont tenu</form>
+		</word>
+		<word inf="venir">
+			<form type="je">suis venu</form>
+			<form type="tu">es venu</form>
+			<form type="il">est venu</form>
+			<form type="nous">sommes venu</form>
+			<form type="vous">êtes venu</form>
+			<form type="ils">sont venu</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">ai senti</form>
+			<form type="tu">as senti</form>
+			<form type="il">a senti</form>
+			<form type="nous">avons senti</form>
+			<form type="vous">avez senti</form>
+			<form type="ils">ont senti</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">ai couvert</form>
+			<form type="tu">as couvert</form>
+			<form type="il">a couvert</form>
+			<form type="nous">avons couvert</form>
+			<form type="vous">avez couvert</form>
+			<form type="ils">ont couvert</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">ai dormi</form>
+			<form type="tu">as dormi</form>
+			<form type="il">a dormi</form>
+		
+			<form type="nous">avons dormi</form>
+			<form type="vous">avez dormi</form>
+			<form type="ils">ont dormi</form>
+		</word>
+		<word inf="courir">
+			<form type="je">ai couru</form>
+			<form type="tu">as couru</form>
+			<form type="il">a couru</form>
+			<form type="nous">avons couru</form>
+			<form type="vous">avez couru</form>
+			<form type="ils">ont couru</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">suis mort</form>
+			<form type="tu">es mort</form>
+			<form type="il">est mort</form>
+			<form type="nous">sommes morts</form>
+			<form type="vous">êtes morts</form>
+			<form type="ils">sont morts</form>
+		</word>
+		<word inf="servir">
+			<form type="je">ai servi</form>
+			<form type="tu">as servi</form>
+			<form type="il">a servi</form>
+			<form type="nous">avons servi</form>
+			<form type="vous">avez servi</form>
+			<form type="ils">ont servi</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">ai reçu</form>
+			<form type="tu">as reçu</form>
+			<form type="il">a reçu</form>
+			<form type="nous">avons reçu</form>
+			<form type="vous">avez reçu</form>
+			<form type="ils">ont reçu</form>
+		</word>
+		<word inf="voir">
+			<form type="je">ai vu</form>
+			<form type="tu">as vu</form>
+			<form type="il">a vu</form>
+			<form type="nous">avons vu</form>
+			<form type="vous">avez vu</form>
+			<form type="ils">ont vu</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">ai su</form>
+			<form type="tu">as su</form>
+			<form type="il">a su</form>
+			<form type="nous">avons su</form>
+			<form type="vous">avez su</form>
+			<form type="ils">ont su</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">ai dû</form>
+			<form type="tu">as dû</form>
+			<form type="il">a dû</form>
+			<form type="nous">avons dû</form>
+			<form type="vous">avez dû</form>
+			<form type="ils">ont dû</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">ai pu</form>
+			<form type="tu">as pu</form>
+			<form type="il">a pu</form>
+			<form type="nous">avons pu</form>
+			<form type="vous">avez pu</form>
+			<form type="ils">ont pu</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">ai voulu</form>
+			<form type="tu">as voulu</form>
+			<form type="il">a voulu</form>
+			<form type="nous">avons voulu</form>
+			<form type="vous">avez voulu</form>
+			<form type="ils">ont voulu</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">ai assis</form>
+			<form type="tu">as assis</form>
+			<form type="il">a assis</form>
+			<form type="nous">avons assis</form>
+			<form type="vous">avez assis</form>
+			<form type="ils">ont assis</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">ai rendu</form>
+			<form type="tu">as rendu</form>
+			<form type="il">a rendu</form>
+			<form type="nous">avons rendu</form>
+			<form type="vous">avez rendu</form>
+			<form type="ils">ont rendu</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">ai pris</form>
+			<form type="tu">as pris</form>
+			<form type="il">a pris</form>
+			<form type="nous">avons pris</form>
+			<form type="vous">avez pris</form>
+			<form type="ils">ont pris</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">ai mis</form>
+			<form type="tu">as mis</form>
+			<form type="il">a mis</form>
+			<form type="nous">avons mis</form>
+			<form type="vous">avez mis</form>
+			<form type="ils">ont mis</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">ai peint</form>
+			<form type="tu">as peint</form>
+			<form type="il">a peint</form>
+			<form type="nous">avons peint</form>
+			<form type="vous">avez peint</form>
+			<form type="ils">ont peint</form>
+		</word>
+		<word inf="faire">
+			<form type="je">ai fait</form>
+			<form type="tu">as fait</form>
+			<form type="il">a fait</form>
+			<form type="nous">avons fait</form>
+			<form type="vous">avez fait</form>
+			<form type="ils">ont fait</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">ai connu</form>
+			<form type="tu">as connu</form>
+			<form type="il">a connu</form>
+			<form type="nous">avons connu</form>
+			<form type="vous">avez connu</form>
+			<form type="ils">ont connu</form>
+		</word>
+		<word inf="naître">
+			<form type="je">suis né</form>
+			<form type="tu">es né</form>
+			<form type="il">est né</form>
+			<form type="nous">sommes nés</form>
+			<form type="vous">êtes nés</form>
+			<form type="ils">sont nés</form>
+		</word>
+		<word inf="croire">
+			<form type="je">ai cru</form>
+			<form type="tu">as cru</form>
+			<form type="il">a cru</form>
+			<form type="nous">avons cru</form>
+			<form type="vous">avez cru</form>
+			<form type="ils">ont cru</form>
+		</word>
+		<word inf="boire">
+			<form type="je">ai bu</form>
+			<form type="tu">as bu</form>
+			<form type="il">a bu</form>
+			<form type="nous">avons bu</form>
+			<form type="vous">avez bu</form>
+			<form type="ils">ont bu</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">ai suivi</form>
+			<form type="tu">as suivi</form>
+			<form type="il">a suivi</form>
+			<form type="nous">avons suivi</form>
+			<form type="vous">avez suivi</form>
+			<form type="ils">ont suivi</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">ai vécu</form>
+			<form type="tu">as vécu</form>
+			<form type="il">a vécu</form>
+			<form type="nous">avons vécu</form>
+			<form type="vous">avez vécu</form>
+			<form type="ils">ont vécu</form>
+		</word>
+		<word inf="lire">
+			<form type="je">ai lu</form>
+			<form type="tu">as lu</form>
+			<form type="il">a lu</form>
+			<form type="nous">avons lu</form>
+			<form type="vous">avez lu</form>
+			<form type="ils">ont lu</form>
+		</word>
+		<word inf="dire">
+			<form type="je">ai dit</form>
+			<form type="tu">as dit</form>
+			<form type="il">a dit</form>
+			<form type="nous">avons dit</form>
+			<form type="vous">avez dit</form>
+			<form type="ils">ont dit</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">ai écrit</form>
+			<form type="tu">as écrit</form>
+			<form type="il">a écrit</form>
+			<form type="nous">avons écrit</form>
+			<form type="vous">avez écrit</form>
+			<form type="ils">ont écrit</form>
+		</word>
+	</conjugation>
+	<conjugation type="plus_que_parfait">
+		<word inf="être">
+			<form type="je">avais été</form>
+			<form type="tu">avais été</form>
+			<form type="il">avait été</form>
+			<form type="nous">avions été</form>
+			<form type="vous">aviez été</form>
+			<form type="ils">avaient été</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">avais eu</form>
+			<form type="tu">avais eu</form>
+			<form type="il">avait eu</form>
+			<form type="nous">avions eu</form>
+			<form type="vous">aviez eu</form>
+			<form type="ils">avaient eu</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">avais aimé</form>
+			<form type="tu">avais aimé</form>
+			<form type="il">avait aimé</form>
+			<form type="nous">avions aimé</form>
+			<form type="vous">aviez aimé</form>
+			<form type="ils">avaient aimé</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">m'étais méfié</form>
+			<form type="tu">t'étais méfié</form>
+			<form type="il">s'était méfié</form>
+			<form type="nous">nous étions méfiés</form>
+			<form type="vous">vous étiez méfiés</form>
+			<form type="ils">s'étaient méfiés</form>
+		</word>
+		<word inf="placer">
+			<form type="je">avais placé</form>
+			<form type="tu">avais placé</form>
+			<form type="il">avait placé</form>
+			<form type="nous">avions placé</form>
+			<form type="vous">aviez placé</form>
+			<form type="ils">avaient placé</form>
+		</word>
+		<word inf="manger">
+			<form type="je">avais mangé</form>
+			<form type="tu">avais mangé</form>
+			<form type="il">avait mangé</form>
+			<form type="nous">avions mangé</form>
+			<form type="vous">aviez mangé</form>
+			<form type="ils">avaient mangé</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">avais jeté</form>
+			<form type="tu">avais jeté</form>
+			<form type="il">avait jeté</form>
+			<form type="nous">avions jeté</form>
+			<form type="vous">aviez jeté</form>
+			<form type="ils">avaient jeté</form>
+		</word>
+		<word inf="créer">
+			<form type="je">avais créé</form>
+			<form type="tu">avais créé</form>
+			<form type="il">avait créé</form>
+			<form type="nous">avions créé</form>
+			<form type="vous">aviez créé</form>
+			<form type="ils">avaient créé</form>
+		</word>
+		<word inf="payer">
+			<form type="je">avais payé</form>
+			<form type="tu">avais payé</form>
+			<form type="il">avait payé</form>
+			<form type="nous">avions payé</form>
+			<form type="vous">aviez payé</form>
+			<form type="ils">avaient payé</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">avais envoyé</form>
+			<form type="tu">avais envoyé</form>
+			<form type="il">avait envoyé</form>
+			<form type="nous">avions envoyé</form>
+			<form type="vous">aviez envoyé</form>
+			<form type="ils">avaient envoyé</form>
+		</word>
+		<word inf="finir">
+			<form type="je">avais fini</form>
+			<form type="tu">avais fini</form>
+			<form type="il">avait fini</form>
+			<form type="nous">avions fini</form>
+			<form type="vous">aviez fini</form>
+			<form type="ils">avaient fini</form>
+		</word>
+		<word inf="aller">
+			<form type="je">étais allé</form>
+			<form type="tu">étais allé</form>
+			<form type="il">était allé</form>
+			<form type="nous">étions allés</form>
+			<form type="vous">étiez allés</form>
+			<form type="ils">étaient allés</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">avais tenu</form>
+			<form type="tu">avais tenu</form>
+			<form type="il">avait tenu</form>
+			<form type="nous">avions tenu</form>
+			<form type="vous">aviez tenu</form>
+			<form type="ils">avaient tenu</form>
+		</word>
+		<word inf="venir">
+			<form type="je">étais venu</form>
+			<form type="tu">étais venu</form>
+			<form type="il">était venu</form>
+			<form type="nous">étions venu</form>
+			<form type="vous">étiez venu</form>
+			<form type="ils">étaient venu</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">avais senti</form>
+			<form type="tu">avais senti</form>
+			<form type="il">avait senti</form>
+			<form type="nous">avions senti</form>
+			<form type="vous">aviez senti</form>
+			<form type="ils">avaient senti</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">avais couvert</form>
+			<form type="tu">avais couvert</form>
+			<form type="il">avait couvert</form>
+			<form type="nous">avions couvert</form>
+			<form type="vous">aviez couvert</form>
+			<form type="ils">avaient couvert</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">avais dormi</form>
+			<form type="tu">avais dormi</form>
+			<form type="il">avait dormi</form>
+			<form type="nous">avions dormi</form>
+			<form type="vous">aviez dormi</form>
+			<form type="ils">avaient dormi</form>
+		</word>
+		<word inf="courir">
+			<form type="je">avais couru</form>
+			<form type="tu">avais couru</form>
+			<form type="il">avait couru</form>
+			<form type="nous">avions couru</form>
+			<form type="vous">aviez couru</form>
+			<form type="ils">avaient couru</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">étais mort</form>
+			<form type="tu">étais mort</form>
+			<form type="il">était mort</form>
+			<form type="nous">étions morts</form>
+			<form type="vous">étiez morts</form>
+			<form type="ils">étaient morts</form>
+		</word>
+		<word inf="servir">
+			<form type="je">avais servi</form>
+			<form type="tu">avais servi</form>
+			<form type="il">avait servi</form>
+			<form type="nous">avions servi</form>
+			<form type="vous">aviez servi</form>
+			<form type="ils">avaient servi</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">avais reçu</form>
+			<form type="tu">avais reçu</form>
+			<form type="il">avait reçu</form>
+			<form type="nous">avions reçu</form>
+			<form type="vous">aviez reçu</form>
+			<form type="ils">avaient reçu</form>
+		</word>
+		<word inf="voir">
+			<form type="je">avais vu</form>
+			<form type="tu">avais vu</form>
+			<form type="il">avait vu</form>
+			<form type="nous">avions vu</form>
+			<form type="vous">aviez vu</form>
+			<form type="ils">avaient vu</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">avais su</form>
+			<form type="tu">avais su</form>
+			<form type="il">avait su</form>
+			<form type="nous">avions su</form>
+			<form type="vous">aviez su</form>
+			<form type="ils">avaient su</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">avais dû</form>
+			<form type="tu">avais dû</form>
+			<form type="il">avait dû</form>
+			<form type="nous">avions dû</form>
+			<form type="vous">aviez dû</form>
+			<form type="ils">avaient dû</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">avais pu</form>
+			<form type="tu">avais pu</form>
+			<form type="il">avait pu</form>
+			<form type="nous">avions pu</form>
+			<form type="vous">aviez pu</form>
+			<form type="ils">avaient pu</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">avais voulu</form>
+			<form type="tu">avais voulu</form>
+			<form type="il">avait voulu</form>
+			<form type="nous">avions voulu</form>
+			<form type="vous">aviez voulu</form>
+			<form type="ils">avaient voulu</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">avais assis</form>
+			<form type="tu">avais assis</form>
+			<form type="il">avait assis</form>
+			<form type="nous">avions assis</form>
+			<form type="vous">aviez assis</form>
+			<form type="ils">avaient assis</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">avais rendu</form>
+			<form type="tu">avais rendu</form>
+			<form type="il">avait rendu</form>
+			<form type="nous">avions rendu</form>
+			<form type="vous">aviez rendu</form>
+			<form type="ils">avaient rendu</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">avais pris</form>
+			<form type="tu">avais pris</form>
+			<form type="il">avait pris</form>
+			<form type="nous">avions pris</form>
+			<form type="vous">aviez pris</form>
+			<form type="ils">avaient pris</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">avais mis</form>
+			<form type="tu">avais mis</form>
+			<form type="il">avait mis</form>
+			<form type="nous">avions mis</form>
+			<form type="vous">aviez mis</form>
+			<form type="ils">avaient mis</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">avais peint</form>
+			<form type="tu">avais peint</form>
+			<form type="il">avait peint</form>
+			<form type="nous">avions peint</form>
+			<form type="vous">aviez peint</form>
+			<form type="ils">avaient peint</form>
+		</word>
+		<word inf="faire">
+			<form type="je">avais fait</form>
+			<form type="tu">avais fait</form>
+			<form type="il">avait fait</form>
+			<form type="nous">avions fait</form>
+			<form type="vous">aviez fait</form>
+			<form type="ils">avaient fait</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">avais connu</form>
+			<form type="tu">avais connu</form>
+			<form type="il">avait connu</form>
+			<form type="nous">avions connu</form>
+			<form type="vous">aviez connu</form>
+			<form type="ils">avaient connu</form>
+		</word>
+		<word inf="naître">
+			<form type="je">étais né</form>
+			<form type="tu">étais né</form>
+			<form type="il">était né</form>
+			<form type="nous">étions nés</form>
+			<form type="vous">étiez nés</form>
+			<form type="ils">étaient nés</form>
+		</word>
+		<word inf="croire">
+			<form type="je">avais cru</form>
+			<form type="tu">avais cru</form>
+			<form type="il">avait cru</form>
+			<form type="nous">avions cru</form>
+			<form type="vous">aviez cru</form>
+			<form type="ils">avaient cru</form>
+		</word>
+		<word inf="boire">
+			<form type="je">avais bu</form>
+			<form type="tu">avais bu</form>
+			<form type="il">avait bu</form>
+			<form type="nous">avions bu</form>
+			<form type="vous">aviez bu</form>
+			<form type="ils">avaient bu</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">avais suivi</form>
+			<form type="tu">avais suivi</form>
+			<form type="il">avait suivi</form>
+			<form type="nous">avions suivi</form>
+			<form type="vous">aviez suivi</form>
+			<form type="ils">avaient suivi</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">avais vécu</form>
+			<form type="tu">avais vécu</form>
+			<form type="il">avait vécu</form>
+			<form type="nous">avions vécu</form>
+			<form type="vous">aviez vécu</form>
+			<form type="ils">avaient vécu</form>
+		</word>
+		<word inf="lire">
+			<form type="je">avais lu</form>
+			<form type="tu">avais lu</form>
+			<form type="il">avait lu</form>
+			<form type="nous">avions lu</form>
+			<form type="vous">aviez lu</form>
+			<form type="ils">avaient lu</form>
+		</word>
+		<word inf="dire">
+			<form type="je">avais dit</form>
+			<form type="tu">avais dit</form>
+			<form type="il">avait dit</form>
+			<form type="nous">avions dit</form>
+			<form type="vous">aviez dit</form>
+			<form type="ils">avaient dit</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">avais écrit</form>
+			<form type="tu">avais écrit</form>
+			<form type="il">avait écrit</form>
+			<form type="nous">avions écrit</form>
+			<form type="vous">aviez écrit</form>
+			<form type="ils">avaient écrit</form>
+		</word>
+	</conjugation>
+	<conjugation type="imperatif">
+		<word inf="être">
+			<form type="tu">sois</form>
+			<form type="nous">soyons</form>
+			<form type="vous">soyez</form>
+		</word>
+		<word inf="avoir">
+			<form type="tu">aie</form>
+			<form type="nous">ayons</form>
+			<form type="vous">ayez</form>
+		</word>
+		<word inf="aimer">
+			<form type="tu">aime</form>
+			<form type="nous">aimons</form>
+			<form type="vous">aimez</form>
+		</word>
+		<word inf="se méfier">
+			<form type="tu">méfie-toi</form>
+			<form type="nous">méfions-nous</form>
+			<form type="vous">méfiez-vous</form>
+		</word>
+		<word inf="placer">
+			<form type="tu">place</form>
+			<form type="nous">plaçons</form>
+			<form type="vous">placez</form>
+		</word>
+		<word inf="manger">
+			<form type="tu">mange</form>
+			<form type="nous">mangeons</form>
+			<form type="vous">mangez</form>
+		</word>
+		<word inf="jeter">
+			<form type="tu">jette</form>
+			<form type="nous">jetons</form>
+			<form type="vous">jetez</form>
+		</word>
+		<word inf="créer">
+			<form type="tu">crée</form>
+			<form type="nous">créons</form>
+			<form type="vous">créez</form>
+		</word>
+		<word inf="payer">
+			<form type="tu">paie</form>
+			<form type="nous">payons</form>
+			<form type="vous">payez</form>
+		</word>
+		<word inf="envoyer">
+			<form type="tu">envoie</form>
+			<form type="nous">envoyons</form>
+			<form type="vous">envoyez</form>
+		</word>
+		<word inf="finir">
+			<form type="tu">finis</form>
+			<form type="nous">finissons</form>
+			<form type="vous">finissez</form>
+		</word>
+		<word inf="aller">
+			<form type="tu">va</form>
+			<form type="nous">allons</form>
+			<form type="vous">allez</form>
+		</word>
+		<word inf="tenir">
+			<form type="tu">tiens</form>
+			<form type="nous">tenons</form>
+			<form type="vous">tenez</form>
+		</word>
+		<word inf="venir">
+			<form type="tu">viens</form>
+			<form type="nous">venons</form>
+			<form type="vous">venez</form>
+		</word>
+		<word inf="sentir">
+			<form type="tu">sens</form>
+			<form type="nous">sentons</form>
+			<form type="vous">sentez</form>
+		</word>
+		<word inf="couvrir">
+			<form type="tu">couvre</form>
+			<form type="nous">couvrons</form>
+			<form type="vous">couvrez</form>
+		</word>
+		<word inf="dormir">
+			<form type="tu">dors</form>
+			<form type="nous">dormons</form>
+			<form type="vous">dormez</form>
+		</word>
+		<word inf="courir">
+			<form type="tu">cours</form>
+			<form type="nous">courons</form>
+			<form type="vous">courez</form>
+		</word>
+		<word inf="mourir">
+			<form type="tu">meurs</form>
+			<form type="nous">mourons</form>
+			<form type="vous">mourez</form>
+		</word>
+		<word inf="servir">
+			<form type="tu">sers</form>
+			<form type="nous">servons</form>
+			<form type="vous">servez</form>
+		</word>
+		<word inf="recevoir">
+			<form type="tu">reçois</form>
+			<form type="nous">recevons</form>
+			<form type="vous">recevez</form>
+		</word>
+		<word inf="voir">
+			<form type="tu">vois</form>
+			<form type="nous">voyons</form>
+			<form type="vous">voyez</form>
+		</word>
+		<word inf="savoir">
+			<form type="tu">sache</form>
+			<form type="nous">sachons</form>
+			<form type="vous">sachez</form>
+		</word>
+		<word inf="devoir">
+			<form type="tu">dois</form>
+			<form type="nous">devons</form>
+			<form type="vous">devez</form>
+		</word>
+		<word inf="vouloir">
+			<form type="tu">veux</form>
+			<form type="nous">voulons</form>
+			<form type="vous">voulez</form>
+		</word>
+		<word inf="asseoir">
+			<form type="tu">assieds</form>
+			<form type="nous">asseyons</form>
+			<form type="vous">asseyez</form>
+		</word>
+		<word inf="rendre">
+			<form type="tu">rends</form>
+			<form type="nous">rendons</form>
+			<form type="vous">rendez</form>
+		</word>
+		<word inf="prendre">
+			<form type="tu">prends</form>
+			<form type="nous">prenons</form>
+			<form type="vous">prenez</form>
+		</word>
+		<word inf="mettre">
+			<form type="tu">mets</form>
+			<form type="nous">mettons</form>
+			<form type="vous">mettez</form>
+		</word>
+		<word inf="peindre">
+			<form type="tu">peins</form>
+			<form type="nous">peignons</form>
+			<form type="vous">peignez</form>
+		</word>
+		<word inf="faire">
+			<form type="tu">fais</form>
+			<form type="nous">faisons</form>
+			<form type="vous">faites</form>
+		</word>
+		<word inf="connaître">
+			<form type="tu">connais</form>
+			<form type="nous">connaissons</form>
+			<form type="vous">connaissez</form>
+		</word>
+		<word inf="naître">
+			<form type="tu">nais</form>
+			<form type="nous">naissons</form>
+			<form type="vous">naissez</form>
+		</word>
+		<word inf="croire">
+			<form type="tu">crois</form>
+			<form type="nous">croyons</form>
+			<form type="vous">croyez</form>
+		</word>
+		<word inf="boire">
+			<form type="tu">bois</form>
+			<form type="nous">buvons</form>
+			<form type="vous">buvez</form>
+		</word>
+		<word inf="suivre">
+			<form type="tu">suis</form>
+			<form type="nous">suivons</form>
+			<form type="vous">suivez</form>
+		</word>
+		<word inf="vivre">
+			<form type="tu">vis</form>
+			<form type="nous">vivons</form>
+			<form type="vous">vivez</form>
+		</word>
+		<word inf="lire">
+			<form type="tu">lis</form>
+			<form type="nous">lisons</form>
+			<form type="vous">lisez</form>
+		</word>
+		<word inf="dire">
+			<form type="tu">dis</form>
+			<form type="nous">disons</form>
+			<form type="vous">dites</form>
+		</word>
+		<word inf="écrire">
+			<form type="tu">écris</form>
+			<form type="nous">écrivons</form>
+			<form type="vous">écrivez</form>
+		</word>
+	</conjugation>
+	<conjugation type="vocab1">
+	  <word inf="être">
+		  <form type="definition">to be</form>
+		</word>
+	  <word inf="environnement">
+		  <form type="definition">environment</form>
+		</word>
+		<word inf="recyclage">
+			<form type="definition">recycling</form>
+		</word>
+		<word inf="déchet">
+			<form type="definition">waste</form>
+		</word>
+		<word inf="habitant">
+			<form type="definition">resident</form>
+		</word>
+		<word inf="geste">
+			<form type="definition">gesture</form>
+		</word>
+		<word inf="tri">
+			<form type="definition">sorting</form>
+		</word>
+		<word inf="container">
+			<form type="definition">container</form>
+		</word>
+		<word inf="fût">
+			<form type="definition">barrel</form>
+		</word>
+		<word inf="usage">
+			<form type="definition">use</form>
+		</word>
+		<word inf="niveau de vie">
+			<form type="definition">standard of living</form>
+		</word>
+		<word inf="cadre">
+			<form type="definition">frame</form>
+		</word>
+		<word inf="compost">
+			<form type="definition">compost</form>
+		</word>
+		<word inf="hameau">
+			<form type="definition">hamlet</form>
+		</word>
+		<word inf="paquebot">
+			<form type="definition">liner</form>
+		</word>
+		<word inf="chemin de fer">
+			<form type="definition">railway</form>
+		</word>
+		<word inf="éco-conseillère">
+			<form type="definition">eco-advisor</form>
+		</word>
+		<word inf="commune">
+			<form type="definition">commune</form>
+		</word>
+		<word inf="consommation">
+			<form type="definition">consumption</form>
+		</word>
+		<word inf="gestion">
+			<form type="definition">management</form>
+		</word>
+		<word inf="ordure">
+			<form type="definition">filth</form>
+		</word>
+		<word inf="campagne">
+			<form type="definition">country</form>
+		</word>
+		<word inf="sensibilisation">
+			<form type="definition">awareness</form>
+		</word>
+		<word inf="ponction">
+			<form type="definition">fee</form>
+		</word>
+		<word inf="amélioration">
+			<form type="definition">improvement</form>
+		</word>
+		<word inf="problématique">
+			<form type="definition">problematic</form>
+		</word>
+		<word inf="tonne">
+			<form type="definition">metric ton</form>
+		</word>
+		<word inf="répercussion">
+			<form type="definition">repercussion</form>
+		</word>
+		<word inf="entrée en matière">
+			<form type="definition">starting point</form>
+		</word>
+		<word inf="exigence">
+			<form type="definition">requirement</form>
+		</word>
+		<word inf="complexité">
+			<form type="definition">complexity</form>
+		</word>
+		<word inf="stratégie">
+			<form type="definition">strategy</form>
+		</word>
+		<word inf="préservation">
+			<form type="definition">preservation</form>
+		</word>
+		<word inf="particularité">
+			<form type="definition">peculiarity</form>
+		</word>
+		<word inf="poubelle">
+			<form type="definition">trash</form>
+		</word>
+		<word inf="incinération">
+			<form type="definition">incineration</form>
+		</word>
+		<word inf="féérie">
+			<form type="definition">magic</form>
+		</word>
+		<word inf="voie">
+			<form type="definition">road</form>
+		</word>
+		<word inf="bourgade">
+			<form type="definition">town</form>
+		</word>
+		<word inf="merveille">
+			<form type="definition">marvel</form>
+		</word>
+		<word inf="chemin">
+			<form type="definition">path</form>
+		</word>
+		<word inf="caisse">
+			<form type="definition">cash</form>
+		</word>
+		<word inf="collision">
+			<form type="definition">collision</form>
+		</word>
+		<word inf="lenteur">
+			<form type="definition">slowness</form>
+		</word>
+		<word inf="ménager">
+			<form type="definition">household</form>
+		</word>
+		<word inf="spécial">
+			<form type="definition">special</form>
+		</word>
+		<word inf="sélectif">
+			<form type="definition">selective</form>
+		</word>
+		<word inf="éco-citoyen">
+			<form type="definition">eco-citizen</form>
+		</word>
+		<word inf="confronté">
+			<form type="definition">confront</form>
+		</word>
+		<word inf="actuel">
+			<form type="definition">current</form>
+		</word>
+		<word inf="toxique">
+			<form type="definition">toxic</form>
+		</word>
+		<word inf="organique">
+			<form type="definition">oraganic</form>
+		</word>
+		<word inf="rural">
+			<form type="definition">rural</form>
+		</word>
+		<word inf="collectif">
+			<form type="definition">collective</form>
+		</word>
+		<word inf="municipal">
+			<form type="definition">municipal</form>
+		</word>
+		<word inf="fréquent">
+			<form type="definition">frequent</form>
+		</word>
+		<word inf="continuel">
+			<form type="definition">continual</form>
+		</word>
+		<word inf="blasé">
+			<form type="definition">jaded</form>
+		</word>
+		<word inf="parcouru">
+			<form type="definition">traveled</form>
+		</word>
+		<word inf="sillonné">
+			<form type="definition">crisscrossed</form>
+		</word>
+		<word inf="aéré">
+			<form type="definition">ventilated</form>
+		</word>
+		<word inf="boueux">
+			<form type="definition">muddy</form>
+		</word>
+		<word inf="cahotant">
+			<form type="definition">jolting</form>
+		</word>
+		<word inf="défectueux">
+			<form type="definition">defective</form>
+		</word>
+		<word inf="antédiluvien">
+			<form type="definition">antediluvian</form>
+		</word>
+		<word inf="égal">
+			<form type="definition">equal</form>
+		</word>
+		<word inf="s'impliquer dans">
+			<form type="definition">involved in</form>
+		</word>
+		<word inf="participer à">
+			<form type="definition">participate in</form>
+		</word>
+		<word inf="prendre au sérieux">
+			<form type="definition">take seriously</form>
+		</word>
+		<word inf="permettre">
+			<form type="definition">allow</form>
+		</word>
+		<word inf="éviter">
+			<form type="definition">avoid</form>
+		</word>
+		<word inf="trier">
+			<form type="definition">sort</form>
+		</word>
+		<word inf="ça suffit">
+			<form type="definition">enough</form>
+		</word>
+		<word inf="augmenter">
+			<form type="definition">increase</form>
+		</word>
+		<word inf="éliminer">
+			<form type="definition">eliminate</form>
+		</word>
+		<word inf="prendre en compte">
+			<form type="definition">take into account</form>
+		</word>
+		<word inf="se centrer sur">
+			<form type="definition">focus on</form>
+		</word>
+		<word inf="concerner">
+			<form type="definition">concern</form>
+		</word>
+		<word inf="faire partie de">
+			<form type="definition">be part of</form>
+		</word>
+		<word inf="récupérer">
+			<form type="definition">recover</form>
+		</word>
+		<word inf="installer">
+			<form type="definition">install</form>
+		</word>
+		<word inf="vivre">
+			<form type="definition">live</form>
+		</word>
+		<word inf="avoir l'air">
+			<form type="definition">appear</form>
+		</word>
+		<word inf="s'en douter">
+			<form type="definition">to doubt</form>
+		</word>
+		<word inf="se rendre compte">
+			<form type="definition">realize</form>
+		</word>
+		<word inf="apprécier">
+			<form type="definition">appreciate</form>
+		</word>
+		<word inf="atteindre">
+			<form type="definition">reach</form>
+		</word>
+		<word inf="traîner">
+			<form type="definition">drag</form>
+		</word>
+		<word inf="attacher un prix à">
+			<form type="definition">attach a price to</form>
+		</word>
+		<word inf="jouir de">
+			<form type="definition">joy of</form>
+		</word>
+		<word inf="être réduit à">
+			<form type="definition">be reduced to</form>
+		</word>
+		<word inf="actuellement">
+			<form type="definition">currently</form>
+		</word>
+		<word inf="en moyenne">
+			<form type="definition">on average</form>
+		</word>
+		<word inf="d'une part .. d'autre part">
+			<form type="definition">on one hand .. on the other hand</form>
+		</word>
+		<word inf="depuis">
+			<form type="definition">since</form>
+		</word>
+		<word inf="ce qui">
+			<form type="definition">what</form>
+		</word>
+		<word inf="puisque">
+			<form type="definition">since</form>
+		</word>
+		<word inf="grâce à">
+			<form type="definition">thanks to</form>
+		</word>
+		<word inf="à cause de">
+			<form type="definition">because of</form>
+		</word>
+		<word inf="au départ">
+			<form type="definition">initially</form>
+		</word>
+		<word inf="en raison de">
+			<form type="definition">because of</form>
+		</word>
+		<word inf="d'après">
+			<form type="definition">according to</form>
+		</word>
+		<word inf="proprement">
+			<form type="definition">proper</form>
+		</word>
+		<word inf="bien des">
+			<form type="definition">many</form>
+		</word>
+		<word inf="dans un premier temps">
+			<form type="definition">as a first step</form>
+		</word>
+		<word inf="puis">
+			<form type="definition">then</form>
+		</word>
+		<word inf="enfin">
+			<form type="definition">finally</form>
+		</word>
+		<word inf="large de .. mètres">
+			<form type="definition">meters wide</form>
+		</word>
+		<word inf="haut de .. mètres">
+			<form type="definition">meters high</form>
+		</word>
+		<word inf="auprès de">
+			<form type="definition">next to</form>
+		</word>
+	</conjugation>
+	<conjugation type="sentences">
+		<word inf="être">
+			<form type="je">suis</form>
+			<form type="tu">es</form>
+			<form type="il">est</form>
+			<form type="nous">sommes</form>
+			<form type="vous">êtes</form>
+			<form type="ils">sont</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">ai</form>
+			<form type="tu">as</form>
+			<form type="il">a</form>
+			<form type="nous">avons</form>
+			<form type="vous">avez</form>
+			<form type="ils">ont</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">aime</form>
+			<form type="tu">aimes</form>
+			<form type="il">aime</form>
+			<form type="nous">aimons</form>
+			<form type="vous">aimez</form>
+			<form type="ils">aiment</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me méfier</form>
+			<form type="tu">te méfies</form>
+			<form type="il">se méfie</form>
+			<form type="nous">nous méfions</form>
+			<form type="vous">vous méfiez</form>
+			<form type="ils">se méfient</form>
+		</word>
+		<word inf="placer">
+			<form type="je">place</form>
+			<form type="tu">places</form>
+			<form type="il">place</form>
+			<form type="nous">plaçons</form>
+			<form type="vous">placez</form>
+			<form type="ils">placent</form>
+		</word>
+		<word inf="manger">
+			<form type="je">mange</form>
+			<form type="tu">manges</form>
+			<form type="il">mange</form>
+			<form type="nous">mangeons</form>
+			<form type="vous">mangez</form>
+			<form type="ils">mangent</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">jette</form>
+			<form type="tu">jettes</form>
+			<form type="il">jette</form>
+			<form type="nous">jetons</form>
+			<form type="vous">jetez</form>
+			<form type="ils">jettent</form>
+		</word>
+		<word inf="créer">
+			<form type="je">crée</form>
+			<form type="tu">crées</form>
+			<form type="il">crée</form>
+			<form type="nous">créons</form>
+			<form type="vous">créez</form>
+			<form type="ils">créent</form>
+		</word>
+		<word inf="payer">
+			<form type="je">paie</form>
+			<form type="tu">paies</form>
+			<form type="il">paie</form>
+			<form type="nous">payons</form>
+			<form type="vous">payez</form>
+			<form type="ils">paient</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">envoie</form>
+			<form type="tu">envoies</form>
+			<form type="il">envoie</form>
+			<form type="nous">envoyons</form>
+			<form type="vous">envoyez</form>
+			<form type="ils">envoient</form>
+		</word>
+		<word inf="finir">
+			<form type="je">finis</form>
+			<form type="tu">finis</form>
+			<form type="il">finit</form>
+			<form type="nous">finissons</form>
+			<form type="vous">finissez</form>
+			<form type="ils">finissent</form>
+		</word>
+		<word inf="aller">
+			<form type="je">vais</form>
+			<form type="tu">vas</form>
+			<form type="il">va</form>
+			<form type="nous">allons</form>
+			<form type="vous">allez</form>
+			<form type="ils">vont</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">tiens</form>
+			<form type="tu">tiens</form>
+			<form type="il">tient</form>
+			<form type="nous">tenons</form>
+			<form type="vous">tenez</form>
+			<form type="ils">tiennent</form>
+		</word>
+		<word inf="venir">
+			<form type="je">viens</form>
+			<form type="tu">viens</form>
+			<form type="il">vient</form>
+			<form type="nous">venons</form>
+			<form type="vous">venez</form>
+			<form type="ils">viennent</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">sens</form>
+			<form type="tu">sens</form>
+			<form type="il">sent</form>
+			<form type="nous">sentons</form>
+			<form type="vous">sentez</form>
+			<form type="ils">sentent</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">couvre</form>
+			<form type="tu">couvres</form>
+			<form type="il">couvre</form>
+			<form type="nous">couvrons</form>
+			<form type="vous">couvrez</form>
+			<form type="ils">couvrent</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">dors</form>
+			<form type="tu">dors</form>
+			<form type="il">dort</form>
+			<form type="nous">dormons</form>
+			<form type="vous">dormez</form>
+			<form type="ils">dorment</form>
+		</word>
+		<word inf="courir">
+			<form type="je">cours</form>
+			<form type="tu">cours</form>
+			<form type="il">court</form>
+			<form type="nous">courons</form>
+			<form type="vous">courez</form>
+			<form type="ils">courent</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">meurs</form>
+			<form type="tu">meurs</form>
+			<form type="il">meurt</form>
+			<form type="nous">mourons</form>
+			<form type="vous">mourez</form>
+			<form type="ils">meurent</form>
+		</word>
+		<word inf="servir">
+			<form type="je">sers</form>
+			<form type="tu">sers</form>
+			<form type="il">sert</form>
+			<form type="nous">servons</form>
+			<form type="vous">servez</form>
+			<form type="ils">servent</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">reçois</form>
+			<form type="tu">reçois</form>
+			<form type="il">reçoit</form>
+			<form type="nous">recevons</form>
+			<form type="vous">recevez</form>
+			<form type="ils">reçoivent</form>
+		</word>
+		<word inf="voir">
+			<form type="je">vois</form>
+			<form type="tu">vois</form>
+			<form type="il">voit</form>
+			<form type="nous">voyons</form>
+			<form type="vous">voyez</form>
+			<form type="ils">voient</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">sais</form>
+			<form type="tu">sais</form>
+			<form type="il">sait</form>
+			<form type="nous">savons</form>
+			<form type="vous">savez</form>
+			<form type="ils">savent</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">dois</form>
+			<form type="tu">dois</form>
+			<form type="il">doit</form>
+			<form type="nous">devons</form>
+			<form type="vous">devez</form>
+			<form type="ils">doivent</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">peux</form>
+			<form type="tu">peux</form>
+			<form type="il">peut</form>
+			<form type="nous">pouvons</form>
+			<form type="vous">pouvez</form>
+			<form type="ils">pouvent</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">veux</form>
+			<form type="tu">veux</form>
+			<form type="il">veut</form>
+			<form type="nous">voulons</form>
+			<form type="vous">voulez</form>
+			<form type="ils">veulent</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">assieds</form>
+			<form type="tu">assieds</form>
+			<form type="il">assied</form>
+			<form type="nous">asseyons</form>
+			<form type="vous">asseyez</form>
+			<form type="ils">asseyent</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">rends</form>
+			<form type="tu">rends</form>
+			<form type="il">rend</form>
+			<form type="nous">rendons</form>
+			<form type="vous">rendez</form>
+			<form type="ils">rendent</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">prends</form>
+			<form type="tu">prends</form>
+			<form type="il">prend</form>
+			<form type="nous">prenons</form>
+			<form type="vous">prenez</form>
+			<form type="ils">prennent</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">mets</form>
+			<form type="tu">mets</form>
+			<form type="il">met</form>
+			<form type="nous">mettons</form>
+			<form type="vous">mettez</form>
+			<form type="ils">mettent</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">peins</form>
+			<form type="tu">peins</form>
+			<form type="il">peint</form>
+			<form type="nous">peignons</form>
+			<form type="vous">peignez</form>
+			<form type="ils">peignent</form>
+		</word>
+		<word inf="faire">
+			<form type="je">fais</form>
+			<form type="tu">fais</form>
+			<form type="il">fait</form>
+			<form type="nous">faisons</form>
+			<form type="vous">faites</form>
+			<form type="ils">font</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">connais</form>
+			<form type="tu">connais</form>
+			<form type="il">connaît</form>
+			<form type="nous">connaissons</form>
+			<form type="vous">connaissez</form>
+			<form type="ils">connaissent</form>
+		</word>
+		<word inf="naître">
+			<form type="je">nais</form>
+			<form type="tu">nais</form>
+			<form type="il">naît</form>
+			<form type="nous">naissons</form>
+			<form type="vous">naissez</form>
+			<form type="ils">naissent</form>
+		</word>
+		<word inf="croire">
+			<form type="je">crois</form>
+			<form type="tu">crois</form>
+			<form type="il">croit</form>
+			<form type="nous">croyons</form>
+			<form type="vous">croyez</form>
+			<form type="ils">croyent</form>
+		</word>
+		<word inf="boire">
+			<form type="je">bois</form>
+			<form type="tu">bois</form>
+			<form type="il">boit</form>
+			<form type="nous">buvons</form>
+			<form type="vous">buvez</form>
+			<form type="ils">boivent</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">suis</form>
+			<form type="tu">suis</form>
+			<form type="il">suit</form>
+			<form type="nous">suivons</form>
+			<form type="vous">suivez</form>
+			<form type="ils">suivent</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">vis</form>
+			<form type="tu">vis</form>
+			<form type="il">vit</form>
+			<form type="nous">vivons</form>
+			<form type="vous">vivez</form>
+			<form type="ils">vivent</form>
+		</word>
+		<word inf="lire">
+			<form type="je">lis</form>
+			<form type="tu">lis</form>
+			<form type="il">lit</form>
+			<form type="nous">lisons</form>
+			<form type="vous">lisez</form>
+			<form type="ils">lisent</form>
+		</word>
+		<word inf="dire">
+			<form type="je">dis</form>
+			<form type="tu">dis</form>
+			<form type="il">dit</form>
+			<form type="nous">disons</form>
+			<form type="vous">dites</form>
+			<form type="ils">disent</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">écris</form>
+			<form type="tu">écris</form>
+			<form type="il">écrit</form>
+			<form type="nous">écrivons</form>
+			<form type="vous">écrivez</form>
+			<form type="ils">écrivent</form>
+		</word>
+	</conjugation>
+	<conjugation type="subjonctif_present">
+		<word inf="être">
+			<form type="je">sois</form>
+			<form type="tu">sois</form>
+			<form type="il">soit</form>
+			<form type="nous">soyons</form>
+			<form type="vous">soyez</form>
+			<form type="ils">soient</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">aie</form>
+			<form type="tu">aies</form>
+			<form type="il">ait</form>
+			<form type="nous">ayons</form>
+			<form type="vous">ayez</form>
+			<form type="ils">aient</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">aime</form>
+			<form type="tu">aimes</form>
+			<form type="il">aime</form>
+			<form type="nous">aimions</form>
+			<form type="vous">aimiez</form>
+			<form type="ils">aiment</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me méfie</form>
+			<form type="tu">te méfies</form>
+			<form type="il">se méfie</form>
+			<form type="nous">nous méfiions</form>
+			<form type="vous">vous méfiiez</form>
+			<form type="ils">se méfient</form>
+		</word>
+		<word inf="placer">
+			<form type="je">place</form>
+			<form type="tu">places</form>
+			<form type="il">place</form>
+			<form type="nous">placions</form>
+			<form type="vous">placiez</form>
+			<form type="ils">placent</form>
+		</word>
+		<word inf="manger">
+			<form type="je">mange</form>
+			<form type="tu">manges</form>
+			<form type="il">mange</form>
+			<form type="nous">mangions</form>
+			<form type="vous">mangiez</form>
+			<form type="ils">mangent</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">jette</form>
+			<form type="tu">jettes</form>
+			<form type="il">jette</form>
+			<form type="nous">jetions</form>
+			<form type="vous">jetiez</form>
+			<form type="ils">jettent</form>
+		</word>
+		<word inf="créer">
+			<form type="je">crée</form>
+			<form type="tu">crées</form>
+			<form type="il">crée</form>
+			<form type="nous">créions</form>
+			<form type="vous">créiez</form>
+			<form type="ils">créent</form>
+		</word>
+		<word inf="payer">
+			<form type="je">paie</form>
+			<form type="tu">paies</form>
+			<form type="il">paie</form>
+			<form type="nous">payions</form>
+			<form type="vous">payiez</form>
+			<form type="ils">paient</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">envoie</form>
+			<form type="tu">envoies</form>
+			<form type="il">envoie</form>
+			<form type="nous">envoyions</form>
+			<form type="vous">envoyiez</form>
+			<form type="ils">envoient</form>
+		</word>
+		<word inf="finir">
+			<form type="je">finisse</form>
+			<form type="tu">finisses</form>
+			<form type="il">finisse</form>
+			<form type="nous">finissions</form>
+			<form type="vous">finissiez</form>
+			<form type="ils">finissent</form>
+		</word>
+		<word inf="aller">
+			<form type="je">aille</form>
+			<form type="tu">ailles</form>
+			<form type="il">aille</form>
+			<form type="nous">allions</form>
+			<form type="vous">alliez</form>
+			<form type="ils">aillent</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">tienne</form>
+			<form type="tu">tiennes</form>
+			<form type="il">tienne</form>
+			<form type="nous">tenions</form>
+			<form type="vous">teneiz</form>
+			<form type="ils">tiennent</form>
+		</word>
+		<word inf="venir">
+			<form type="je">vienne</form>
+			<form type="tu">viennes</form>
+			<form type="il">vienne</form>
+			<form type="nous">venions</form>
+			<form type="vous">veniez</form>
+			<form type="ils">viennent</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">sente</form>
+			<form type="tu">sentes</form>
+			<form type="il">sente</form>
+			<form type="nous">sentions</form>
+			<form type="vous">sentiez</form>
+			<form type="ils">sentent</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">couvre</form>
+			<form type="tu">couvres</form>
+			<form type="il">couvre</form>
+			<form type="nous">couvrions</form>
+			<form type="vous">couvriez</form>
+			<form type="ils">couvrent</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">dorme</form>
+			<form type="tu">dormes</form>
+			<form type="il">dorme</form>
+			<form type="nous">dormions</form>
+			<form type="vous">dormiez</form>
+			<form type="ils">dorment</form>
+		</word>
+		<word inf="courir">
+			<form type="je">coure</form>
+			<form type="tu">coures</form>
+			<form type="il">coure</form>
+			<form type="nous">courions</form>
+			<form type="vous">couriez</form>
+			<form type="ils">courent</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">meure</form>
+			<form type="tu">meures</form>
+			<form type="il">meure</form>
+			<form type="nous">mourions</form>
+			<form type="vous">mouriez</form>
+			<form type="ils">meurent</form>
+		</word>
+		<word inf="servir">
+			<form type="je">serve</form>
+			<form type="tu">serves</form>
+			<form type="il">serve</form>
+			<form type="nous">servions</form>
+			<form type="vous">serviez</form>
+			<form type="ils">servent</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">reçoive</form>
+			<form type="tu">reçoives</form>
+			<form type="il">reçoive</form>
+			<form type="nous">recevions</form>
+			<form type="vous">receviez</form>
+			<form type="ils">reçoivent</form>
+		</word>
+		<word inf="voir">
+			<form type="je">voie</form>
+			<form type="tu">voies</form>
+			<form type="il">voie</form>
+			<form type="nous">voyions</form>
+			<form type="vous">voyiez</form>
+			<form type="ils">voient</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">sache</form>
+			<form type="tu">saches</form>
+			<form type="il">sache</form>
+			<form type="nous">sachions</form>
+			<form type="vous">sachiez</form>
+			<form type="ils">sachent</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">doive</form>
+			<form type="tu">doives</form>
+			<form type="il">doive</form>
+			<form type="nous">devions</form>
+			<form type="vous">deviez</form>
+			<form type="ils">doivent</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">puisse</form>
+			<form type="tu">puisses</form>
+			<form type="il">puisse</form>
+			<form type="nous">puissions</form>
+			<form type="vous">puissiez</form>
+			<form type="ils">puissent</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">veuille</form>
+			<form type="tu">veuilles</form>
+			<form type="il">veuille</form>
+			<form type="nous">voulions</form>
+			<form type="vous">vouliez</form>
+			<form type="ils">veuillent</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">asseye</form>
+			<form type="tu">asseyes</form>
+			<form type="il">asseye</form>
+			<form type="nous">asseyions</form>
+			<form type="vous">asseyiez</form>
+			<form type="ils">asseyent</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">rende</form>
+			<form type="tu">rendes</form>
+			<form type="il">rende</form>
+			<form type="nous">rendions</form>
+			<form type="vous">rendiez</form>
+			<form type="ils">rendent</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">prenne</form>
+			<form type="tu">prennes</form>
+			<form type="il">prenne</form>
+			<form type="nous">prenions</form>
+			<form type="vous">preniez</form>
+			<form type="ils">prennent</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">mette</form>
+			<form type="tu">mettes</form>
+			<form type="il">mette</form>
+			<form type="nous">mettions</form>
+			<form type="vous">mettiez</form>
+			<form type="ils">mettent</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">peigne</form>
+			<form type="tu">peignes</form>
+			<form type="il">peigne</form>
+			<form type="nous">peignions</form>
+			<form type="vous">peigniez</form>
+			<form type="ils">peignent</form>
+		</word>
+		<word inf="faire">
+			<form type="je">fasse</form>
+			<form type="tu">fasses</form>
+			<form type="il">fasse</form>
+			<form type="nous">fassions</form>
+			<form type="vous">fassiez</form>
+			<form type="ils">fassent</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">connaisse</form>
+			<form type="tu">connaisses</form>
+			<form type="il">connaisse</form>
+			<form type="nous">connaissions</form>
+			<form type="vous">connaissiez</form>
+			<form type="ils">connaissent</form>
+		</word>
+		<word inf="naître">
+			<form type="je">naisse</form>
+			<form type="tu">naisses</form>
+			<form type="il">naisse</form>
+			<form type="nous">naissions</form>
+			<form type="vous">naissiez</form>
+			<form type="ils">naissent</form>
+		</word>
+		<word inf="croire">
+			<form type="je">croie</form>
+			<form type="tu">croies</form>
+			<form type="il">croie</form>
+			<form type="nous">croyions</form>
+			<form type="vous">croyiez</form>
+			<form type="ils">croyent</form>
+		</word>
+		<word inf="boire">
+			<form type="je">boive</form>
+			<form type="tu">boives</form>
+			<form type="il">boive</form>
+			<form type="nous">buvions</form>
+			<form type="vous">buviez</form>
+			<form type="ils">boivent</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">suive</form>
+			<form type="tu">suives</form>
+			<form type="il">suive</form>
+			<form type="nous">suivions</form>
+			<form type="vous">suiviez</form>
+			<form type="ils">suivent</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">vive</form>
+			<form type="tu">vives</form>
+			<form type="il">vive</form>
+			<form type="nous">vivions</form>
+			<form type="vous">viviez</form>
+			<form type="ils">vivent</form>
+		</word>
+		<word inf="lire">
+			<form type="je">lise</form>
+			<form type="tu">lises</form>
+			<form type="il">lise</form>
+			<form type="nous">lisions</form>
+			<form type="vous">lisiez</form>
+			<form type="ils">lisent</form>
+		</word>
+		<word inf="dire">
+			<form type="je">dise</form>
+			<form type="tu">dises</form>
+			<form type="il">dise</form>
+			<form type="nous">disions</form>
+			<form type="vous">disiez</form>
+			<form type="ils">disent</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">écrive</form>
+			<form type="tu">écrives</form>
+			<form type="il">écrive</form>
+			<form type="nous">écrivions</form>
+			<form type="vous">écriviez</form>
+			<form type="ils">écrivent</form>
+		</word>
+	</conjugation>
+	<conjugation type="passe_simple2">
+		<word inf="être">
+			<form type="je">fus</form>
+			<form type="tu">fus</form>
+			<form type="il">fut</form>
+			<form type="nous">fûmes</form>
+			<form type="vous">fûtes</form>
+			<form type="ils">furent</form>
+		</word>
+		<word inf="avoir">
+			<form type="je">eus</form>
+			<form type="tu">eus</form>
+			<form type="il">eut</form>
+			<form type="nous">eûmes</form>
+			<form type="vous">eûtes</form>
+			<form type="ils">eurent</form>
+		</word>
+		<word inf="aimer">
+			<form type="je">aimai</form>
+			<form type="tu">aimas</form>
+			<form type="il">aima</form>
+			<form type="nous">aimâmes</form>
+			<form type="vous">aimâtes</form>
+			<form type="ils">aimèrent</form>
+		</word>
+		<word inf="se méfier">
+			<form type="je">me méfiai</form>
+			<form type="tu">te méfias</form>
+			<form type="il">te méfia</form>
+			<form type="nous">nous méfiâmes</form>
+			<form type="vous">vous méfiâtes</form>
+			<form type="ils">se méfièrent</form>
+		</word>
+		<word inf="placer">
+			<form type="je">plaçai</form>
+			<form type="tu">plaças</form>
+			<form type="il">plaça</form>
+			<form type="nous">plaçâmes</form>
+			<form type="vous">plaçâtes</form>
+			<form type="ils">placèrent</form>
+		</word>
+		<word inf="manger">
+			<form type="je">mangeai</form>
+			<form type="tu">mangeas</form>
+			<form type="il">mangea</form>
+			<form type="nous">mangeâmes</form>
+			<form type="vous">mangeâtes</form>
+			<form type="ils">mangèrent</form>
+		</word>
+		<word inf="jeter">
+			<form type="je">jetai</form>
+			<form type="tu">jetas</form>
+			<form type="il">jeta</form>
+			<form type="nous">jetâmes</form>
+			<form type="vous">jetâtes</form>
+			<form type="ils">jetèrent</form>
+		</word>
+		<word inf="créer">
+			<form type="je">créai</form>
+			<form type="tu">créas</form>
+			<form type="il">créa</form>
+			<form type="nous">créâmes</form>
+			<form type="vous">créâtes</form>
+			<form type="ils">créèrent</form>
+		</word>
+		<word inf="payer">
+			<form type="je">payai</form>
+			<form type="tu">payas</form>
+			<form type="il">paya</form>
+			<form type="nous">payâmes</form>
+			<form type="vous">payâtes</form>
+			<form type="ils">payèrent</form>
+		</word>
+		<word inf="envoyer">
+			<form type="je">envoyai</form>
+			<form type="tu">envoyas</form>
+			<form type="il">envoya</form>
+			<form type="nous">envoyâmes</form>
+			<form type="vous">envoyâtes</form>
+			<form type="ils">envoyèrent</form>
+		</word>
+		<word inf="finir">
+			<form type="je">finis</form>
+			<form type="tu">finis</form>
+			<form type="il">finit</form>
+			<form type="nous">finîmes</form>
+			<form type="vous">finîtes</form>
+			<form type="ils">finirent</form>
+		</word>
+		<word inf="aller">
+			<form type="je">allai</form>
+			<form type="tu">allas</form>
+			<form type="il">alla</form>
+			<form type="nous">allâmes</form>
+			<form type="vous">allâtes</form>
+			<form type="ils">allèrent</form>
+		</word>
+		<word inf="tenir">
+			<form type="je">tins</form>
+			<form type="tu">tins</form>
+			<form type="il">tint</form>
+			<form type="nous">tînmes</form>
+			<form type="vous">tîntes</form>
+			<form type="ils">tinrent</form>
+		</word>
+		<word inf="venir">
+			<form type="je">vins</form>
+			<form type="tu">vins</form>
+			<form type="il">vint</form>
+			<form type="nous">vînmes</form>
+			<form type="vous">vîntes</form>
+			<form type="ils">vinrent</form>
+		</word>
+		<word inf="sentir">
+			<form type="je">sentis</form>
+			<form type="tu">sentis</form>
+			<form type="il">sentit</form>
+			<form type="nous">sentîmes</form>
+			<form type="vous">sentîtes</form>
+			<form type="ils">sentirent</form>
+		</word>
+		<word inf="couvrir">
+			<form type="je">couvris</form>
+			<form type="tu">couvris</form>
+			<form type="il">couvrit</form>
+			<form type="nous">couvrîmes</form>
+			<form type="vous">couvrîtes</form>
+			<form type="ils">couvrirent</form>
+		</word>
+		<word inf="dormir">
+			<form type="je">dormis</form>
+			<form type="tu">dormis</form>
+			<form type="il">dormit</form>
+			<form type="nous">dormîmes</form>
+			<form type="vous">dormîtes</form>
+			<form type="ils">dormirent</form>
+		</word>
+		<word inf="courir">
+			<form type="je">courus</form>
+			<form type="tu">courus</form>
+			<form type="il">courut</form>
+			<form type="nous">courûmes</form>
+			<form type="vous">courûtes</form>
+			<form type="ils">coururent</form>
+		</word>
+		<word inf="mourir">
+			<form type="je">mourus</form>
+			<form type="tu">mourus</form>
+			<form type="il">mourut</form>
+			<form type="nous">mourûmes</form>
+			<form type="vous">mourûtes</form>
+			<form type="ils">moururent</form>
+		</word>
+		<word inf="servir">
+			<form type="je">servis</form>
+			<form type="tu">servis</form>
+			<form type="il">servit</form>
+			<form type="nous">servîmes</form>
+			<form type="vous">servîtes</form>
+			<form type="ils">servirent</form>
+		</word>
+		<word inf="recevoir">
+			<form type="je">reçus</form>
+			<form type="tu">reçus</form>
+			<form type="il">reçut</form>
+			<form type="nous">reçûmes</form>
+			<form type="vous">reçûtes</form>
+			<form type="ils">reçurent</form>
+		</word>
+		<word inf="voir">
+			<form type="je">vis</form>
+			<form type="tu">vis</form>
+			<form type="il">vit</form>
+			<form type="nous">vîmes</form>
+			<form type="vous">vîtes</form>
+			<form type="ils">virent</form>
+		</word>
+		<word inf="savoir">
+			<form type="je">sus</form>
+			<form type="tu">sus</form>
+			<form type="il">sut</form>
+			<form type="nous">sûmes</form>
+			<form type="vous">sûtes</form>
+			<form type="ils">surent</form>
+		</word>
+		<word inf="devoir">
+			<form type="je">dus</form>
+			<form type="tu">dus</form>
+			<form type="il">dut</form>
+			<form type="nous">dûmes</form>
+			<form type="vous">dûtes</form>
+			<form type="ils">durent</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="je">pus</form>
+			<form type="tu">pus</form>
+			<form type="il">put</form>
+			<form type="nous">pûmes</form>
+			<form type="vous">pûtes</form>
+			<form type="ils">purent</form>
+		</word>
+		<word inf="vouloir">
+			<form type="je">voulus</form>
+			<form type="tu">voulus</form>
+			<form type="il">voulut</form>
+			<form type="nous">voulûmes</form>
+			<form type="vous">voulûtes</form>
+			<form type="ils">voulurent</form>
+		</word>
+		<word inf="asseoir">
+			<form type="je">assis</form>
+			<form type="tu">assis</form>
+			<form type="il">assit</form>
+			<form type="nous">assîmes</form>
+			<form type="vous">assîtes</form>
+			<form type="ils">assirent</form>
+		</word>
+		<word inf="rendre">
+			<form type="je">rendis</form>
+			<form type="tu">rendis</form>
+			<form type="il">rendit</form>
+			<form type="nous">rendîmes</form>
+			<form type="vous">rendîtes</form>
+			<form type="ils">rendirent</form>
+		</word>
+		<word inf="prendre">
+			<form type="je">pris</form>
+			<form type="tu">pris</form>
+			<form type="il">prit</form>
+			<form type="nous">prîmes</form>
+			<form type="vous">prîtes</form>
+			<form type="ils">prirent</form>
+		</word>
+		<word inf="mettre">
+			<form type="je">mis</form>
+			<form type="tu">mis</form>
+			<form type="il">mit</form>
+			<form type="nous">mîmes</form>
+			<form type="vous">mîtes</form>
+			<form type="ils">mirent</form>
+		</word>
+		<word inf="peindre">
+			<form type="je">peignis</form>
+			<form type="tu">peignis</form>
+			<form type="il">peignit</form>
+			<form type="nous">peignîmes</form>
+			<form type="vous">peignîtes</form>
+			<form type="ils">peignirent</form>
+		</word>
+		<word inf="faire">
+			<form type="je">fis</form>
+			<form type="tu">fis</form>
+			<form type="il">fit</form>
+			<form type="nous">fîmes</form>
+			<form type="vous">fîtes</form>
+			<form type="ils">firent</form>
+		</word>
+		<word inf="connaître">
+			<form type="je">connus</form>
+			<form type="tu">connus</form>
+			<form type="il">connut</form>
+			<form type="nous">connûmes</form>
+			<form type="vous">connûtes</form>
+			<form type="ils">connurent</form>
+		</word>
+		<word inf="naître">
+			<form type="je">naquis</form>
+			<form type="tu">naquis</form>
+			<form type="il">naquit</form>
+			<form type="nous">naquîmes</form>
+			<form type="vous">naquîtes</form>
+			<form type="ils">naquirent</form>
+		</word>
+		<word inf="croire">
+			<form type="je">crus</form>
+			<form type="tu">crus</form>
+			<form type="il">crut</form>
+			<form type="nous">crûmes</form>
+			<form type="vous">crûtes</form>
+			<form type="ils">crurent</form>
+		</word>
+		<word inf="boire">
+			<form type="je">bus</form>
+			<form type="tu">bus</form>
+			<form type="il">but</form>
+			<form type="nous">bûmes</form>
+			<form type="vous">bûtes</form>
+			<form type="ils">burent</form>
+		</word>
+		<word inf="suivre">
+			<form type="je">suivis</form>
+			<form type="tu">suivis</form>
+			<form type="il">suivit</form>
+			<form type="nous">suivîmes</form>
+			<form type="vous">suivîtes</form>
+			<form type="ils">suivirent</form>
+		</word>
+		<word inf="vivre">
+			<form type="je">vécus</form>
+			<form type="tu">vécus</form>
+			<form type="il">vécut</form>
+			<form type="nous">vécûmes</form>
+			<form type="vous">vécûtes</form>
+			<form type="ils">vécurent</form>
+		</word>
+		<word inf="lire">
+			<form type="je">lus</form>
+			<form type="tu">lus</form>
+			<form type="il">lut</form>
+			<form type="nous">lûmes</form>
+			<form type="vous">lûtes</form>
+			<form type="ils">lurent</form>
+		</word>
+		<word inf="dire">
+			<form type="je">dis</form>
+			<form type="tu">dis</form>
+			<form type="il">dit</form>
+			<form type="nous">dîmes</form>
+			<form type="vous">dîtes</form>
+			<form type="ils">dirent</form>
+		</word>
+		<word inf="écrire">
+			<form type="je">écrivis</form>
+			<form type="tu">écrivis</form>
+			<form type="il">écrivit</form>
+			<form type="nous">écrivîmes</form>
+			<form type="vous">écrivîtes</form>
+			<form type="ils">écrivirent</form>
+		</word>
+	</conjugation>
+
+	<conjugation type="passe_simple">
+		<word inf="être">
+			<form type="il">fut</form>
+			<form type="ils">furent</form>
+		</word>
+		<word inf="avoir">
+			<form type="il">eut</form>
+			<form type="ils">eurent</form>
+		</word>
+		<word inf="aimer">
+			<form type="il">aima</form>
+			<form type="ils">aimèrent</form>
+		</word>
+		<word inf="se méfier">
+			<form type="il">se méfia</form>
+			<form type="ils">se méfièrent</form>
+		</word>
+		<word inf="placer">
+			<form type="il">plaça</form>
+			<form type="ils">placèrent</form>
+		</word>
+		<word inf="manger">
+			<form type="il">mangea</form>
+			<form type="ils">mangèrent</form>
+		</word>
+		<word inf="jeter">
+			<form type="il">jeta</form>
+			<form type="ils">jetèrent</form>
+		</word>
+		<word inf="créer">
+			<form type="il">créa</form>
+			<form type="ils">créèrent</form>
+		</word>
+		<word inf="payer">
+			<form type="il">paya</form>
+			<form type="ils">payèrent</form>
+		</word>
+		<word inf="envoyer">
+			<form type="il">envoya</form>
+			<form type="ils">envoyèrent</form>
+		</word>
+		<word inf="finir">
+			<form type="il">finit</form>
+			<form type="ils">finirent</form>
+		</word>
+		<word inf="aller">
+			<form type="il">alla</form>
+			<form type="ils">allèrent</form>
+		</word>
+		<word inf="tenir">
+			<form type="il">tint</form>
+			<form type="ils">tinrent</form>
+		</word>
+		<word inf="venir">
+			<form type="il">vint</form>
+			<form type="ils">vinrent</form>
+		</word>
+		<word inf="sentir">
+			<form type="il">sentit</form>
+			<form type="ils">sentirent</form>
+		</word>
+		<word inf="couvrir">
+			<form type="il">couvrit</form>
+			<form type="ils">couvrirent</form>
+		</word>
+		<word inf="dormir">
+			<form type="il">dormit</form>
+			<form type="ils">dormirent</form>
+		</word>
+		<word inf="courir">
+			<form type="il">courut</form>
+			<form type="ils">coururent</form>
+		</word>
+		<word inf="mourir">
+			<form type="il">mourut</form>
+			<form type="ils">moururent</form>
+		</word>
+		<word inf="servir">
+			<form type="il">servit</form>
+			<form type="ils">servirent</form>
+		</word>
+		<word inf="recevoir">
+			<form type="il">reçut</form>
+			<form type="ils">reçurent</form>
+		</word>
+		<word inf="voir">
+			<form type="il">vit</form>
+			<form type="ils">virent</form>
+		</word>
+		<word inf="savoir">
+			<form type="il">sut</form>
+			<form type="ils">surent</form>
+		</word>
+		<word inf="devoir">
+			<form type="il">dut</form>
+			<form type="ils">durent</form>
+		</word>
+		<word inf="pouvoir">
+			<form type="il">put</form>
+			<form type="ils">purent</form>
+		</word>
+		<word inf="vouloir">
+			<form type="il">voulut</form>
+			<form type="ils">voulurent</form>
+		</word>
+		<word inf="asseoir">
+			<form type="il">assit</form>
+			<form type="ils">assirent</form>
+		</word>
+		<word inf="rendre">
+			<form type="il">rendit</form>
+			<form type="ils">rendirent</form>
+		</word>
+		<word inf="prendre">
+			<form type="il">prit</form>
+			<form type="ils">prirent</form>
+		</word>
+		<word inf="mettre">
+			<form type="il">mit</form>
+			<form type="ils">mirent</form>
+		</word>
+		<word inf="peindre">
+			<form type="il">peignit</form>
+			<form type="ils">peignirent</form>
+		</word>
+		<word inf="faire">
+			<form type="il">fit</form>
+			<form type="ils">firent</form>
+		</word>
+		<word inf="connaître">
+			<form type="il">connut</form>
+			<form type="ils">connurent</form>
+		</word>
+		<word inf="naître">
+			<form type="il">naquit</form>
+			<form type="ils">naquirent</form>
+		</word>
+		<word inf="croire">
+			<form type="il">crut</form>
+			<form type="ils">crurent</form>
+		</word>
+		<word inf="boire">
+			<form type="il">but</form>
+			<form type="ils">burent</form>
+		</word>
+		<word inf="suivre">
+			<form type="il">suivit</form>
+			<form type="ils">suivirent</form>
+		</word>
+		<word inf="vivre">
+			<form type="il">vécut</form>
+			<form type="ils">vécurent</form>
+		</word>
+		<word inf="lire">
+			<form type="il">lut</form>
+			<form type="ils">lurent</form>
+		</word>
+		<word inf="dire">
+			<form type="il">dit</form>
+			<form type="ils">dirent</form>
+		</word>
+		<word inf="écrire">
+			<form type="il">écrivit</form>
+			<form type="ils">écrivirent</form>
+		</word>
+	</conjugation>
+</wordlist>
